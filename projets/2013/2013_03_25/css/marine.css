@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.ac-container article p img{
+float: left;
+margin-right: 10px;	
+width:55px;
+}
+
+.ac-container label img {
+	
+float: left;
+margin-right: 10px;		
+height:67px;
+	
+	}

@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link rel="stylesheet" href="design.css" media="all" />
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	//Configuration
+		  var retour = true;
+		  var tempsTransition = 1000;
+		  var affichePlayPause = true;
+		  var lectureAutomatique = false;
+		  	var tempsAttente = 6000;
+			
+		  var icones = new Array();
+		  		icones['play'] = 'img/play_slider.png';
+		  		icones['pause'] = 'img/pause_slider.png';	
+			
+		  var currentPosition = 0;
+		  var slideWidth = 630;
+		  var slides = $('.slide');
+		  var numberOfSlides = slides.length;
+		  var interval;
+		  var lectureEnCours = false;
+  // Supprime la scrollbar en JS
+  $('#slidesContainer').css('overflow', 'hidden');
+
+  // Attribue  #slideInner  à toutes les div .slide
+  slides
+    .wrapAll('<div id="slideInner"></div>')
+    // Float left to display horizontally, readjust .slides width
+	.css({
+      'float' : 'left',
+      'width' : slideWidth
+    });
+
+  // Longueur de #slideInner égale au total de la longueur de tous les slides
+  $('#slideInner').css('width', slideWidth * numberOfSlides);
+
+  // Insert controls in the DOM
+  $('#slideshow')
+    .append('<span class="control" id="leftControl">Précédent</span>')
+    .append('<span class="control" id="rightControl">Suivant</span>');
+
+
+  
+  // Hide left arrow control on first load
+  manageControls(currentPosition);
+
+  //Crée un écouteur d'évènement de type clic sur les classes .control
+  $('.control')
+    .bind('click', function(){
+		
+    // Determine la nouvelle position
+	currentPosition = ($(this).attr('id')=='rightControl') ? currentPosition+1 : currentPosition-1;
+    
+	if(currentPosition == numberOfSlides && retour == false ){
+		currentPosition--;
+		pause();
+	}
+	
+	// Cache ou montre les controles
+    manageControls(currentPosition);
+    // Fais bouger le slide
+    $('#slideInner').animate({
+      'marginLeft' : slideWidth*(-currentPosition)
+    },tempsTransition);
+  });
+
+  // manageControls: Cache ou montre les flêches de controle en fonction de la position courante
+  function manageControls(position){
+    // Cache la fleche "précédent" si on est sur le premier slide
+	if(position==0){ $('#leftControl').hide() } else{ $('#leftControl').show() }
+	// Cache la fleche "suivant" si on est sur le dernier slide (et que le retour automatique n'est pas activé)
+    if(position==numberOfSlides-1 && retour == false){
+		$('#rightControl').hide();
+	} else {
+		$('#rightControl').show();
+	}
+	if(position == numberOfSlides && retour == true){
+		currentPosition = 0;
+		 $('#leftControl').hide();
+	}
+  }
+  function suivant(){
+	$('#rightControl').click();
+	}
+  function start() {
+  	lectureEnCours = true;
+    interval = setInterval(suivant, tempsAttente );
+  }
+  function pause() {
+  	lectureEnCours = false;
+   clearInterval(interval);
+  }
+  
+ //Si le diapo est activé 
+if(lectureAutomatique == true){
+  start();
+}
+if(affichePlayPause == false){
+	$('#slidesContainer').prepend('<img id="navDiapo" src="" alt="Navigation diaporama" />');
+	if(lectureAutomatique == true){
+		$('#navDiapo').attr('src',icones['pause']);
+	}else{
+		$('#navDiapo').attr('src',icones['play']);	
+	}
+	$('#navDiapo').bind('click', function(){
+		if(lectureEnCours == true){
+			$(this).attr('src',icones['play']);
+			pause();
+		}else{
+			$(this).attr('src',icones['pause']);
+			start();
+		}
+	});
+}
+
+
+  	
+});
+</script>
+</head>
+<body>
+<div id="pageContainer">
+ 
+  <!-- Slideshow HTML -->
+  <div id="slideshow">
+    <div id="slidesContainer">
+    	
+              <div class="slide">
+      <div style="margin-right:30px; text-align:justify">
+         <h2>Chris Stefanucci</h2>
+        <p><img src="img/img_slide_01.jpg" width="536" height="236" alt="Chris Stefanucci" />
+       Chris Stefanucci mène une vie paisible avec sa femme et sa fille à Williamsburg, une petite ville du sud-est de la Virginie. Mais ce jeune homme de 29 ans a autrefois connu une existence autrement plus agitée : il a passé plusieurs années au sein de l'armée américaine en Irak et en Afghanistan.</p>
+        
+      </div></div>
+
+        
+      <div class="slide">
+      <div style="margin-right:30px; text-align:justify">
+
+        <p>
+          <img src="img/img_slide_02.jpg" alt="Chris Stefanucci" width="536" height="284" />
+        <p>Il est désormais ingénieur dans le civil, tout en gardant une sensibilité particulière pour les questions militaires. "Obama a bien fait de décider le retrait d'Afghanistan", juge-t-il. "On aurait pu rester là bas encore des années sans arriver à pacifier un pays que ni Alexandre le Grand ni les Russes ne sont parvenus à envahir".
+
+
+
+ 
+</p>
+
+      </div>
+      </div>
+      
+       
+            <div class="slide">
+      <div style="margin-right:30px; text-align:justify">
+
+        <p>
+          <img src="img/img_slide_03.jpg" alt="Chris Stefanucci" width="536" height="258" />
+        <p>Il votera toutefois pour Mitt Romney à la présidentielle car il est convaincu que les républicains soutiennent davantage l'armée que les démocrates. "Le problème avec Obama, c'est qu'il veut réduire la taille de notre armée, explique-t-il. On a beau avoir toute l'avance technologique du monde, pour faire la guerre, il faut toujours un mec sur le terrain avec un fusil."
+
+</p>
+
+      </div>
+      </div>
+
+      
+      
+    <div class="slide">
+      <div style="margin-right:30px; text-align:left">
+
+        <p>
+          <img src="img/img_slide_04.jpg" alt="Chris Stefanucci" width="536" height="302" />
+        <p>Le retour à la vie civile a pourtant été difficile pour lui : il a souffert de dépression pendant un an. "Et encore, j'ai de la chance car j'étais pilote d'hélicoptère et donc souvent dans les airs. Ceux qui étaient sur le terrain ne s'en remettent jamais vraiment."
+
+</p>
+
+      </div>
+      </div>
+      
+    
+   
+    
+  </div>
+  </div>
+  <!-- Slideshow HTML -->
+ 
+</div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+/* SpryTooltip.css - version 0.2 - Spry Pre-Release 1.6.1 */
+
+/* Copyright (c) 2006. Adobe Systems Incorporated. All rights reserved. */
+
+/* HACK FOR IE: to make sure the tooltips show above form controls, we underlay each tooltip with an iframe */
+.iframeTooltip
+{
+	position: absolute;
+	z-index: 1010;
+	filter:alpha(opacity:0.1);
+}
+
+.tooltipContent
+{
+	background-color: #FFFFFF;
+	opacity:0.8;
+	filter : alpha(opacity=80);
+	font-family: 'Futura_book', Verdana, Arial, sans-serif;
+	font-size: 14px;
+	color: black;
+	vertical-align: 50%;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+
+}
+
+.tooltipContent h2 {
+	font-family: 'titre', Verdana, Arial, sans-serif;
+	font-size: 16px;
+	color: black;
+	margin-bottom:-10px;
+		margin-top:0px;
+
+	
+	}
+	
+	
+@font-face {
+ font-family: 'Futura_book';
+ src: url('../css/FUTURA-BOOK.eot'); /* EOT file for IE */
+  src: local('x'),
+         url('../css/16023_FUTURAN.ttf') format('TrueType');
+
+}
+
+@font-face {
+ font-family: 'Futurabold';
+ src: url('../css/FUTURAB.eot'); /* EOT file for IE */
+  src: local('x'),
+         url('../css/FUTURAB.ttf') format('TrueType');
+
+}
+@font-face {
+ font-family: 'Futurabolditalic';
+ src: url('../css/FUTURABI.eot'); /* EOT file for IE */
+  src: local('x'),
+         url('../css/FUTURABI.ttf') format('TrueType');
+
+}
+@font-face {
+    font-family: 'titre';
+    src: url('../css/brannbollfet-webfont.eot');
+    src: url('../css/brannbollfet-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../css/brannbollfet-webfont.woff') format('woff'),
+         url('../css/brannbollfet-webfont.ttf') format('truetype'),
+         url('../css/brannbollfet-webfont.svg#brannboll_fetregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

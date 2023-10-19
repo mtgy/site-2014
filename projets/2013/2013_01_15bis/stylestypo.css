@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+	font-family: myDinMeduim;
+	src: url('typo/dinmedium-webfont-webfont.eot');
+	src: url('typo/dinmedium-webfont-webfont.eot?#iefix') format('embedded-opentype'), url('typo/dinmedium-webfont-webfont.woff') format('woff'), url('typo/dinmedium-webfont.ttf') format('truetype'), url('typo/dinmedium-webfont-webfont.svg#webfont') format('svg');
+}
+@font-face {
+	font-family: myDinReg;
+	src: url('typo/dinregular_0-webfont-webfont.eot');
+	src: url('typo/dinregular_0-webfont-webfont.eot?#iefix') format('embedded-opentype'), url('typo/dinregular_0-webfont-webfont.woff') format('woff'), url('typo/dinregular_0-webfont.ttf') format('truetype'), url('typo/dinregular_0-webfont-webfont.svg#webfont') format('svg');
+}

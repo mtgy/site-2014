@@ -1,0 +1,99 @@
+@import url('normalize.css');
+/* General Demo Style */
+body{
+	font-family: 'Open Sans Condensed','Arial Narrow', serif;
+	background: #000000;
+	font-weight: 400;
+	font-size: 15px;
+	color: #333;
+	overflow:hidden;
+}
+a{
+	color: #555;
+	text-decoration: none;
+}
+.container{
+	width: 100%;
+	position: relative;
+	min-height: 750px;
+}
+.clr{
+	clear: both;
+	padding: 0;
+	height: 0;
+	margin: 0;
+}
+.container > header{
+	position: absolute;
+	display: block;
+  text-shadow: 1px 1px 5px #000000;
+	text-align: left;
+	z-index:-1;
+/*	width: 500px;
+*/	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+/*	background-image: url(../images/pattern.png);
+	background-repeat: repeat;*/
+	color: #D7DF23;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 20px;
+}
+.container > header h1{
+    color: #D7DF23;
+    font-family: 'Quantico';
+    font-size: 51px;
+    font-weight: 300;
+
+    margin: 0;
+    position: relative;
+    text-transform: uppercase;}
+.container > header h1 span{
+	font-weight: 700;
+}
+.container > header h2{
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 15px 0 5px 0;
+	color: #6190ca;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.7);
+}
+/* Header Style */
+.codrops-top{
+	line-height: 24px;
+	font-size: 11px;
+	background: #fff;
+	background: rgba(0, 0, 0, 0.6);
+	/*text-transform: uppercase;*/
+	z-index: 9999;
+	position: relative;
+	font-family: Cambria, Georgia, serif;
+	color:#af1e25;
+	/* [disabled]box-shadow: 1px 0px 2px rgba(0,0,0,0.2); */
+}
+.codrops-top a{
+	padding: 0px 10px;
+	letter-spacing: 1px;
+	color: #333;
+	display: inline-block;
+}
+ span.right a:hover{
+	background: rgba(255,255,255,0.3);
+}
+ span.right{
+	float: right;
+	padding:15px;
+}
+ span.right a{
+	float: left;
+	display: block;
+}

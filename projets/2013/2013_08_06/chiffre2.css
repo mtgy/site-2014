@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.ch248 {
+    background-image: url("images/niquelaire_off.png");
+    cursor: pointer;
+    height: 171px;
+    left: 13px;
+    position: absolute;
+    top: 140px;
+    width: 111px;
+		-webkit-transition: all 250ms;
+	-moz-transition: all 250ms;
+	-ms-transition: all 250ms;
+	-o-transition: all 250ms;
+	transition: all 250ms;
+}
+.ch248:hover {
+	background-image: url("images/niquelaire_on.png");
+
+}
+.ch2000 {
+    background-image: url("images/montre_off.png");
+    cursor: pointer;
+    height: 187px;
+    left: 81px;
+    position: absolute;
+    top: 358px;
+    width: 112px;
+		-webkit-transition: all 250ms;
+	-moz-transition: all 250ms;
+	-ms-transition: all 250ms;
+	-o-transition: all 250ms;
+	transition: all 250ms;
+
+}
+.ch2000:hover {
+	background-image: url("images/montre_on.png");
+
+}
+.ch8 {
+    background-image: url("images/fusee_off.png");
+    cursor: pointer;
+    height: 142px;
+    left: 186px;
+    position: absolute;
+    top: 144px;
+    width: 88px;
+		-webkit-transition: all 250ms;
+	-moz-transition: all 250ms;
+	-ms-transition: all 250ms;
+	-o-transition: all 250ms;
+	transition: all 250ms;
+
+}
+.ch8:hover {
+	background-image: url("images/fusee_on.png");
+
+}
+.ch77000 {
+    background-image: url("images/robot_off.png");
+    cursor: pointer;
+    height: 184px;
+    left: 311px;
+    position: absolute;
+    top: 178px;
+    width: 112px;
+		-webkit-transition: all 250ms;
+	-moz-transition: all 250ms;
+	-ms-transition: all 250ms;
+	-o-transition: all 250ms;
+	transition: all 250ms;
+
+
+	}
+.ch77000:hover {
+	background-image: url("images/robot_on.png");
+
+}
+
+.ch20 {
+    background-image: url("images/3d_off.png");
+    cursor: pointer;
+    height: 183px;
+    left: 407px;
+    position: absolute;
+    top: 366px;
+    width: 110px;
+		-webkit-transition: all 250ms;
+	-moz-transition: all 250ms;
+	-ms-transition: all 250ms;
+	-o-transition: all 250ms;
+	transition: all 250ms;
+}
+.ch20:hover {
+	background-image: url("images/3d_on.png");
+
+}
+
+
+.ch06 {
+    background-image: url("images/car_off.png");
+    cursor: pointer;
+    height: 145px;
+    left: 471px;
+    position: absolute;
+    top: 101px;
+    width: 88px;
+		-webkit-transition: all 250ms;
+	-moz-transition: all 250ms;
+	-ms-transition: all 250ms;
+	-o-transition: all 250ms;
+	transition: all 250ms;
+}
+.ch06:hover {
+	background-image: url("images/car_on.png");
+
+}
+
+.ch07 {
+    background-image: url("images/poisson_off.png");
+    cursor: pointer;
+    height: 139px;
+    left: 524px;
+    position: absolute;
+    top: 296px;
+    width: 85px;
+		-webkit-transition: all 250ms;
+	-moz-transition: all 250ms;
+	-ms-transition: all 250ms;
+	-o-transition: all 250ms;
+	transition: all 250ms;
+
+}
+.ch07:hover {
+	background-image: url("images/poisson_on.png");
+
+}

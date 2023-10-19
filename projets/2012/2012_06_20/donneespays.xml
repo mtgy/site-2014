@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<donneespays>
+
+<pays nom="Allemagne">
+	<descr>L'économie allemande, trop dépendante des exportations pour doper sa croissance selon l'OCDE, risque de pâtir plus que d'autres pays européens du ralentissement du commerce international.
+</descr>
+	<pib>2 570 milliards d'euros</pib>
+	<croissance>3%</croissance>
+	<chomage>5,9%</chomage>
+	<dette>81,2%</dette>
+	<deficit>-1%</deficit>
+	<inflation>2,3%</inflation>
+	</pays>
+
+<pays nom="France">
+	<descr>La croissance atone est le principal problème de la France actuellement. Cette panne économique prive le pays des rentrées fiscales nécessaires pour réduire son déficit, souligne la petite agence de notation américaine Egan-Jones qui a dégradé la note de la dette française vendredi 15 juin. 
+</descr>
+	<pib>1 996 milliards d'euros</pib>
+	<croissance>1,7%</croissance>
+	<chomage>9,7%</chomage>
+	<dette>85,8%</dette>
+	<deficit>-5,2%</deficit>
+	<inflation>2,6%</inflation>
+</pays>
+
+<pays nom="Italie">
+	<descr>Le haut niveau de la dette constitue le talon d'Achille de la Botte. Pour la faire baisser, le gouvernement de Mario Monti a multiplié les plans d'austérité qui ont eu pour conséquence de plonger le pays en récession. Ce mélange dette et récession déplait fortement aux marchés qui ont fait de l'Italie une cible de choix.
+</descr>
+	<pib>1 580 milliards d'euros</pib>
+	<croissance>0,4%</croissance>
+	<chomage>8,4%</chomage>
+	<dette>120,1%</dette>
+	<deficit>-3,9%</deficit>
+	<inflation>3,8%</inflation>
+</pays>
+
+<pays nom="Espagne">
+	<descr>Avec un risque maximum d'effondrement des banques espagnoles, c'est le système économique du pays tout entier qui est menacé. L'Union européenne a beau avoir débloqué une aide financière de 100 milliards d'euros, les marchés n'ont plus confiance en l'Espagne. À tel point que les taux auxquels l'Espagne emprunte de l'argent atteignent des niveaux records.
+</descr>
+	<pib>1 073 milliards d'euros</pib>
+	<croissance>0,7%</croissance>
+	<chomage>21,7%</chomage>
+	<dette>68,5%</dette>
+	<deficit>-8,5%</deficit>
+	<inflation>1,8%</inflation>
+</pays>
+
+<pays nom="Pays-Bas">
+	<descr>Comme pour l'Allemagne, tant que le commerce international va, tout va pour les Pays-Bas. Mais la consommation intérieure est en chute continue, souligne l'OCDE qui craint que les récentes mesures d'austérité adoptées n'aggravent encore la situation. Rien ne vient contrebalancer pour l'instant la panne des exportations.
+</descr>
+	<pib>602 milliards d'euros</pib>
+	<croissance>1,2%</croissance>
+	<chomage>4,4%</chomage>
+	<dette>65,2%</dette>
+	<deficit>-4,7%</deficit>
+	<inflation>2,9%</inflation>
+</pays>
+
+<pays nom="Belgique">
+	<descr>Le niveau de la dette, qui frôle les 100 % du PIB, rend la situation belge très précaire. Le pays n'est pas encore dans le collimateur des marchés grâce notamment à un taux de croissance supérieur à la moyenne européenne. Mais l'OCDE prévient que l'activité économique risque de ralentir parallèlement à la détérioration de la situation dans le reste de la zone euro.
+</descr>
+	<pib>368,3 milliards d'euros</pib>
+	<croissance>1,9%</croissance>
+	<chomage>7,2%</chomage>
+	<dette>98%</dette>
+	<deficit>-3,7%</deficit>
+	<inflation>3,1%</inflation>
+</pays>
+
+<pays nom="Autriche">
+	<descr>La seule ombre au tableau économique de l'Autriche est, selon l'OCDE, la fragilité de son système financier. Les banques et autres institutions financières ont beaucoup investi dans des pays en danger économique, comme l'Italie ou la Grèce.
+</descr>
+	<pib>300 milliards d'euros</pib>
+	<croissance>3%</croissance>
+	<chomage>4,2%</chomage>
+	<dette>72,2%</dette>
+	<deficit>-2,6%</deficit>
+	<inflation>2,6% </inflation>
+</pays>
+
+<pays nom="Grèce">
+	<descr>La Grèce a entamé, en 2012, sa cinquième année de récession. Cette baisse continue de l'activité économique a totalement vidé les caisses d'un pays obligé de vivre aux crochets de l'Europe et du FMI. Athènes a un besoin urgent de renouer avec la croissance mais doit, sur prescription de ses créanciers, avaler une pilule d'austérité afin d'assainir ses finances.
+</descr>
+	<pib>215 milliards d'euros</pib>
+	<croissance>-6,9%</croissance>
+	<chomage>17,7%</chomage>
+	<dette>165,3%</dette>
+	<deficit>-9,1%</deficit>
+	<inflation>1,4%</inflation>
+</pays>
+
+<pays nom="Finlande">
+	<descr>Le principal problème de la Finlande est... la zone euro. Le pays doit prendre des mesures pour soutenir son économie sous peine de subir le contrecoup de la crise européenne alors même que la plupart des indicateurs économiques (croissance, balance budgétaire, etc.) sont actuellement au vert. L'OCDE craint que le pays ne tarde à réagir.
+</descr>
+	<pib>191,5 milliards d'euros</pib>
+	<croissance>2,9%</croissance>
+	<chomage>7,8%</chomage>
+	<dette>48,6%</dette>
+	<deficit>+0,5%</deficit>
+	<inflation>2,9%</inflation>
+</pays>
+
+<pays nom="Portugal">
+	<descr>Comme la Grèce, mais dans une moindre mesure, le Portugal croule sous le poids de sa dette (107 % de son PIB). Le pays, dont les caisses sont vides, n'est pas en mesure de stimuler son économie et subit donc de plein fouet la récession. Dans ce contexte, Lisbonne n'arrive pas à lever suffisamment de recettes fiscales pour alléger la pression de sa dette.
+</descr>
+	<pib>171 milliards d'euros</pib>
+	<croissance>-1,6%</croissance>
+	<chomage>12,9 %</chomage>
+	<dette>107,8%</dette>
+	<deficit>-4,2%</deficit>
+	<inflation>3,1%</inflation>
+</pays>
+
+<pays nom="Irlande">
+	<descr>Le sauvetage du secteur bancaire irlandais a plombé les comptes publics. Si Dublin s'en sort mieux que les deux autres pays qui ont reçu une aide internationale - à savoir la Grèce et le Portugal-, son déficit public demeure le plus élevé de la zone euro. 
+</descr>
+	<pib>156,4 milliards d'euros</pib>
+	<croissance>0,7%</croissance>
+	<chomage>14,4%</chomage>
+	<dette>108,2%</dette>
+	<deficit>-13,1%</deficit>
+	<inflation>2,2%</inflation>
+</pays>
+
+<pays nom="Rép. Tchèque">
+	<descr>La République tchèque a choisi la voie allemande pour son développement économique : elle est donc très dépendante de ses exportations sans toutefois avoir les reins financiers aussi solides que son puissant voisin. La faiblesse actuelle du commerce mondial peut donc lui faire économiquement très mal.
+</descr>
+	<pib>155 milliards d'euros</pib>
+	<croissance>1,7%</croissance>
+	<chomage>6,7%</chomage>
+	<dette>41,2%</dette>
+	<deficit>-3,1%</deficit>
+	<inflation>4,2 %</inflation>
+</pays>
+
+<pays nom="Slovaquie">
+	<descr>La Slovaquie peine à sortir du cercle vicieux du chômage (plus de 13 %). À cause du nombre élevé de chômeurs, le pays a une consommation intérieure faible, ce qui l'oblige à miser beaucoup sur les exportations pour sa croissance. À cette fin, la Slovaquie privilégie les mesures améliorant la compétitivité de ses entreprises. Conséquence d'après l'OCDE : le pouvoir d'achat des Slovaques reste faible et le taux de chômage élevé.
+</descr>
+	<pib>69 milliards d'euros</pib>
+	<croissance>3,3%</croissance>
+	<chomage>13,5 %</chomage>
+	<dette>43,3%</dette>
+	<deficit>-4,8%</deficit>
+	<inflation>3,9%</inflation>
+</pays>
+
+<pays nom="Luxembourg">
+	<descr>Une aggravation de la crise dans la zone euro risque de mettre en péril tout le secteur financier luxembourgeois dont le pays dépend fortement. Le duché avait déjà sérieusement pâti de la crise de la finance mondiale en 2008 et n'a commencé à s'en remettre qu'en 2010. Mais l'économie reste encore fragile comme en témoigne un taux de chômage - près de 5 % - anormalement élevé pour le Luxembourg.
+</descr>
+	<pib>42,8 milliards d'euros</pib>
+	<croissance>1,6%</croissance>
+	<chomage>4,8%</chomage>
+	<dette>18,2%</dette>
+	<deficit>-0,6%</deficit>
+	<inflation>2,9%</inflation>
+</pays>
+
+<pays nom="Slovénie">
+	<descr>La Slovénie est principalement handicapée par un déficit budgétaire important l'empêchant de prendre des mesures de soutien à son économie en ces temps de crise de la zone euro. Le pays a entrepris, depuis 2010, un ambitieux plan de redressement des comptes qui s'est traduit par une forte austérité. Une rigueur budgétaire qui plombe actuellement la croissance slovène.
+</descr>
+	<pib>35,6 milliards d'euros</pib>
+	<croissance>-0,2%</croissance>
+	<chomage>8,2%</chomage>
+	<dette>47,6%</dette>
+	<deficit>-6,4%</deficit>
+	<inflation>2,4%</inflation>
+</pays>
+
+<pays nom="Chypre">
+	<descr>Le principal problème économique de Chypre est la Grèce. L'île dépend énormément de son grand voisin et la débâcle hellène fait de Chypre un pays au bord de la rupture économique. Avec un niveau de dette élevé, les marchés sont également réticents à continuer à lui prêter de l'argent. 
+</descr>
+	<pib>17,7 milliards d'euros</pib>
+	<croissance>0,5%</croissance>
+	<chomage>7,8%</chomage>
+	<dette>71,6%</dette>
+	<deficit>-6,3%</deficit>
+	<inflation>3,5%</inflation>
+</pays>
+
+
+<pays nom="Malte">
+	<descr>Malte était déjà une étoile touristique en déclin avant le début de la crise économique. Les problèmes de la zone euro ne vont pas arranger les affaires de ce petit paradis fiscal qui dépend énormément des touristes européens, aujourd'hui beaucoup moins enclins à partir en vacances.
+</descr>
+	<pib>6,4 milliards d'euros</pib>
+	<croissance>2,1%</croissance>
+	<chomage>6,5%</chomage>
+	<dette>72%</dette>
+	<deficit>-2,7%</deficit>
+	<inflation>2,4%</inflation>
+</pays>
+
+
+
+</donneespays>

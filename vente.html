@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+    <meta charset="utf-8">
+    <title>Marine Tanguy, design interactif</title>
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Portfolio d'une graphiste-intégratrice Web spécialisée dans l'infographie.">
+    <META NAME="keywords" CONTENT="Portfolio, graphiste, integrateur, infographie, graphique, web-reportage, reportage interactif, carte, statique, diaporama, Jquery, html, css, diaporama sonore, france 24, RFI, paris, 2014, flash, cv">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+    
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://mahahh.com" />
+<meta name="twitter:image" content="http://mahahh.com/mahahh.jpg" />
+<meta name="twitter:title" content="Marine Tanguy, design interactif" />
+<meta name="twitter:description" content="Portfolio d'une graphiste-intégratrice Web spécialisée dans l'infographie." />
+<meta property="og:site_name" content="mahahh.com" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:domain" content="mahahh.com" />
+
+<meta property="og:url" content="http://mahahh.com" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://mahahh.com/mahahh.jpg" />
+<meta property="og:title" content="Marine Tanguy, design interactif" />
+<meta property="og:description" content="Portfolio d'une graphiste-intégratrice Web spécialisée dans l'infographie." />
+
+    
+    
+    
+    
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/gaspard_ft.css" />
+
+    <!--
+    ================================================== -->
+
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/responsive-grid.css" />
+    <link rel="stylesheet" href="css/isotope.css" />
+    <link rel="stylesheet" href="css/jquery.fancybox.css" type="text/css"/>
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- These are all the javascript files -->
+
+    <script src="js/jquery-1.7.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/jquery.infinitescroll.min.js"></script>
+    <script src="js/jquery.browser.mobile.js"></script>
+    <script src="js/jquery.manual-trigger.js"></script>
+    <script src="js/jquery.ba-bbq.min.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+
+    <!-- Le preloader
+    ================================================== -->
+    <!-- Script to make sure everything loads -->
+    <script type="text/javascript">
+        //<![CDATA[
+            $(window).load(function() { // makes sure the whole site is loaded
+                $("#status").fadeOut(); // will first fade out the loading animation
+                $("#preloader").delay(350).fadeOut("slow"); // will fade out the white DIV that covers the website.
+                $("#preloader-container").css("position","static");
+                $(".widget .entry-container").each(function(index) {
+                    $(this).delay(400*index).animate({'opacity': 1},300);
+                    
+                });  
+            })
+        //]]>
+    </script>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="ico/favicon.png">
+
+
+
+
+    </head>
+
+    <body onload="initialize()">
+
+<!-- Preloader -->
+<div id="preloader">
+      <div id="status">
+    <div class="loadleft stick"><span></span></div>
+    <div class="loadright stick"><span></span></div>
+  </div>
+    </div>
+</div>
+<div id="map_canvas" style="opacity: 0; width:100%; height:100%"></div>
+
+<!-- Le Header
+================================================== -->
+<div class="navigation" >
+      <nav> <a class="mobile-logo" data-toggle="collapse" data-target="#nav-collapse"> <span>Marine Tanguy</span> </a>
+    <div id="nav-collapse" class="collapse">
+          <ul class="nav">
+        <li class="logo"><img src="img/marine.png" width="230" height="58"></li>
+          <li> <a href="index.html" class="selected grd">Home</a></li>
+        <div class="nav1">
+              <li class="moy"><a href="#filter=.graphics">e-commerce</a></li>
+                 <li><a href="#filter=.vente">ventes</a></li>
+              <li><a href="#filter=.market">marketing</a></li>
+            </div>
+
+        <li class="about-btn"><a href="#filter=.a-propos">A propos</a></li>
+      </ul>
+        </div>
+  </nav>
+    </div>
+<div id="preloader-container">
+      <div id="container"> 
+    
+    <!-- ================================================== -->
+    
+    <div class="widget media grid-widget a-propos">
+          <div class="entry-container span8 desc">
+        <div class="entry drop-shadow">
+              <div class="full-width">
+            <h3>&Agrave; propos</h3>
+            <!-- Description -->
+            <p>Graphiste-intégratrice web depuis 2008, je travaille en collaboration avec les rédactions Web de FRANCE 24, RFI et Monte Carlo Douliya sur toutes formes d'infographies.</p>
+            <p>Actuellement, j'utilise principalement le HTML 5, CSS 3 et le Jquery pour répondre aux nouveaux usages. Les infographies actuelles produites pour les rédactions Web varient du reportage interactif avec une couche responsive full screen à l’infographie statique. Auparavant, je me servais surtout de flash avec l'AS3 pour les cartes interactives et les animations. </p>
+          </div>
+              <div class="row-fluid">
+            <div class="span6">
+                  <h3>Graphisme Web</h3>
+                  <p>Conception et réalisation multimédia online.
+                Maîtrise des logiciels Photoshop, Illustrator, Dreamweaver, Flash. 
+                Gestion des contraintes spécifiques au graphisme Web. </p>
+                </div>
+            <div class="span6">
+                  <h3>Développement Web </h3>
+                  <p>Développement et optimisation de templates.
+                Maîtrise des langages : HTML 5, CSS 3, as3.
+                Bonnes connaissances en Jquery. </p>
+                </div>
+          </div>
+              <div class="stripes"></div>
+            </div>
+      </div>
+        </div>
+    <!-- ================================================== -->
+    
+    <div class="widget media grid-widget a-propos">
+          <div class="entry-container span4 right desc">
+        <div class="entry drop-shadow ">
+              <h4 class="heading">N'hésitez pas à me contacter</h4>
+              <div class="contact-alerts"> </div>
+              <form id="contact" action="contact.php">
+            <div class="row-fluid">
+                  <div class="span12">
+                <input id="name" type="text" value="" placeholder="Nom" name="name">
+              </div>
+                </div>
+            <div class="row-fluid">
+                  <div class="span12">
+                <input id="email" type="text" value="" placeholder="Email" name="email">
+              </div>
+                </div>
+            <div class="row-fluid">
+                  <div class="span12">
+                <textarea id="message" required rows="6" placeholder="Message" name="message"></textarea>
+              </div>
+                  <div class="hp">
+                <label>Si vous êtes un humain, laissez ce champ vide</label>
+                <input type="text" name="comment">
+              </div>
+                </div>
+            <div class="row-fluid">
+                  <div class="span12">
+                <div class="submit"> <img src="img/icon_submit.png" alt=""/> </div>
+              </div>
+                </div>
+          </form>
+            </div>
+      </div>
+        </div>
+    <!-- ================================================== -->
+    
+    <div class="widget portfolio-widget a-propos">
+          <div class="entry-container span3">
+        <div class="entry-image"> <a href="cv-marine-tanguy.pdf"> <span class="entry-image-overlay"></span> <img src="images/2014_cv.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved ">
+              <h5 class="heading"> <a href="cv-marine-tanguy.pdf">cv</a> </h5>
+              <p>Pour plus d'information,<br>
+            <a href="cv-marine-tanguy.pdf">téléchargez mon cv</a></p>
+              <div class="stripes"></div>
+            </div>
+      </div>
+        </div>
+    
+    <!--
+	==================================================
+	=====	Home
+	================================================== -->
+
+
+    <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics vente an2009">
+          <div class="entry-container span6"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/american_ve_d.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/am_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Heading -->
+              <h5 class="heading"> <a href="images/vente/american_ve_d.jpg" class="fancybox">Amercian Retro</a> </h5>
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">Design</a> d'une <a href="#filter=.vente"> vente</a></p>
+              <div class="entry-footer">
+  
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+    
+        <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics vente an2008">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/moloko_ve.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/moloko_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Heading -->
+              <h5 class="heading"> <a href="images/vente/moloko_ve.jpg" class="fancybox">Moloko</a> </h5>
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">Design</a> d'une <a href="#filter=.vente"> vente</a></p>
+              <div class="entry-footer">
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+    
+            <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics vente an2008">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/urban_ve_d.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/urban_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Heading -->
+              <h5 class="heading"> <a href="images/vente/urban_ve_d.jpg" class="fancybox">Urban concept</a> </h5>
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">Design</a> d'une <a href="#filter=.vente"> vente</a></p>
+              <div class="entry-footer">
+
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+    
+                <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics vente an2009">
+          <div class="entry-container span3"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/valege_ve.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/valege_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Heading -->
+              <h5 class="heading"> <a href="images/vente/valege_ve.jpg" class="fancybox">Valege</a> </h5>
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">Design</a> d'une <a href="#filter=.vente"> vente</a></p>
+              <div class="entry-footer">
+  
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+    
+    
+                    <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics vente an2009">
+          <div class="entry-container span6"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/chacok_ve.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/chacok_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Heading -->
+              <h5 class="heading"> <a href="images/vente/chacok_ve.jpg" class="fancybox">Chacok</a> </h5>
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">Design</a> d'une <a href="#filter=.vente"> vente</a></p>
+              <div class="entry-footer">
+  
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+    
+        
+                    <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics vente an2009">
+          <div class="entry-container span3"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/doux_ve.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/doux_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Heading -->
+              <h5 class="heading"> <a href="images/vente/doux_ve.jpg" class="fancybox">Doux me</a> </h5>
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">Design</a> d'une <a href="#filter=.vente"> vente</a></p>
+              <div class="entry-footer">
+  
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+    
+        
+                    <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics vente an2009">
+          <div class="entry-container span5"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/couleur_ve.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/couleur_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Heading -->
+              <h5 class="heading"> <a href="images/vente/couleur_ve.jpg" class="fancybox">Couleur pourpre</a> </h5>
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">Design</a> d'une <a href="#filter=.vente"> vente</a></p>
+              <div class="entry-footer">
+  
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+                        <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics market an2009">
+          <div class="entry-container span3"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/emailing.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/emailing_temp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+
+       
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">exemple</a> d' <a href="#filter=.market"> emailing</a></p>
+              <div class="entry-footer">
+
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+    
+                        <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics market an2009">
+          <div class="entry-container span3"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/emailing2.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/emailing2_temp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+
+       
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">exemple</a> d' <a href="#filter=.market"> emailing</a></p>
+              <div class="entry-footer">
+
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    
+    
+    
+    
+    <!-- ================================================== -->     
+    
+                            <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics market an2009">
+          <div class="entry-container span3"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/kitpubgrazia.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/kitpubgrazia_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+
+       
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">exemple</a> de <a href="#filter=.market">kit pub</a></p>
+              <div class="entry-footer">
+
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    
+    
+    
+    
+    <!-- ================================================== -->   
+    
+                            <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics market an2009">
+          <div class="entry-container span3"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/accro.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/accro_temp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+
+       
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">exemple</a> de <a href="#filter=.market"> jeux concours</a></p>
+              <div class="entry-footer">
+
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    
+    
+    
+    
+    <!-- ================================================== -->   
+    
+                            <!-- ================================================== --> 
+    <div class="widget portfolio homepage graphics market an2009">
+          <div class="entry-container span3"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"> <a href="images/vente/jeuxphoto.jpg" class="fancybox"> <span class="entry-image-overlay"></span> <img src="images/vente/jeuxphoto_tamp.jpg" alt="" /> </a> </div>
+        <div class="entry drop-shadow curved "> 
+              
+
+       
+              
+              <!-- Portfolio Description -->
+              <p><a href="#filter=.graphics">exemple</a> de <a href="#filter=.market"> jeux concours</a></p>
+
+              <div class="entry-footer">
+
+          </div>
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="24h00"><img src="img/social-icons/logo_24.png" alt="" /></a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    
+    
+    
+    
+    <!-- ================================================== -->   
+    
+  </div>
+      <!-- #container --> 
+      
+      <!-- Footer
+================================================== -->
+      
+      <div class="footer">
+    <ul>
+          <li class="left">© Copyright 2014 mahahh.com</li>
+        </ul>
+  </div>
+    </div>
+
+
+
+<script>
+ var isiPad = /ipad/i.test(navigator.userAgent.toLowerCase());
+ 
+ if (isiPad) { 
+	 $("nav ul li").click(function() {
+	 	event.stopPropagation();
+	 	$("ul", this).toggle();
+	 });
+	
+	$(document).click( function(){
+		$('nav ul li > ul').hide();
+	});
+}
+ </script> 
+
+<!-- CONTACT FORM
+ ================================================== --> 
+<!-- AJAX contact form --> 
+
+<script>
+ 	$('.submit').click(function() {
+ 		
+ 		var name = $("#name").val();
+ 		var email = $("#email").val();
+ 		var message = $("#message").val();
+ 		
+ 		var dataString = 'name='+ name + '&email=' + email + '&message=' + message;  
+ 		//alert (dataString);return false;  
+ 		$.ajax({  
+ 		  type: "POST",  
+ 		  url: "contact.php",  
+ 		  data: dataString,  
+ 		  success:  function (html) { 
+ 		  	if (html == "invalid_email ") {
+ 		  		$('.contact-alerts').empty();
+ 		  		$('.contact-alerts').append('<div id="email-error" class="alert alert-error">This email is invalid!</div>');
+ 		  	} else if (html == "success ") {
+ 		 		$('.contact-alerts').empty();
+ 				$('.contact-alerts').append('<div id="email-success" class="alert alert-success">Your email has been sent!</div>');
+ 		  	} else if (html == "error ") {
+ 		  		$('.contact-alerts').empty();
+ 		  		$('.contact-alerts').append('<div id="email-error" class="alert alert-error">Please fill out all the fields!</div>');
+ 		  	}
+ 
+ 		  }  
+ 		});  
+ 	});
+ </script> 
+
+
+<script>
+$("[rel=alternate]").tooltip()
+</script> 
+
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox({
+			helpers : {
+			        overlay : {
+			            locked : true
+			        }
+			    },
+			    
+			    padding: ['0px', '0px', '0px', '0px'],		
+
+				});
+
+		});
+</script>
+
+<!-- JQUERY (isotope)
+================================================== --> 
+
+<script src="js/jquery.isotope_custom.js"></script>
+
+
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11825238-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>Marine Tanguy, design interactif</title>
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Portfolio d'une graphiste-intégratrice Web spécialisée dans l'infographie.">
+    <META NAME="keywords" CONTENT="Portfolio, graphiste, integrateur, infographie, graphique, web-reportage, reportage interactif, carte, statique, diaporama, Jquery, html, css, diaporama sonore, france 24, RFI, paris, 2014, flash, cv">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://mahahh.com" />
+<meta name="twitter:image" content="http://mahahh.com/mahahh.jpg" />
+<meta name="twitter:title" content="Marine Tanguy, design interactif" />
+<meta name="twitter:description" content="Portfolio d'une graphiste-intégratrice Web spécialisée dans l'infographie." />
+<meta property="og:site_name" content="mahahh.com" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:domain" content="mahahh.com" />
+
+<meta property="og:url" content="http://mahahh.com" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://mahahh.com/mahahh.jpg" />
+<meta property="og:title" content="Marine Tanguy, design interactif" />
+<meta property="og:description" content="Portfolio d'une graphiste-intégratrice Web spécialisée dans l'infographie." />
+
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/gaspard_ft.css" />
+    <!--
+    ================================================== -->
+
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/responsive-grid.css" />
+    <link rel="stylesheet" href="css/isotope.css" />
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- These are all the javascript files -->
+
+    <script src="js/jquery-1.7.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/jquery.infinitescroll.min.js"></script>
+    <script src="js/jquery.browser.mobile.js"></script>
+    <script src="js/jquery.manual-trigger.js"></script>
+    <script src="js/jquery.ba-bbq.min.js"></script>
+
+    <!-- Le preloader
+    ================================================== -->
+    <!-- Script to make sure everything loads -->
+    <script type="text/javascript">
+        //<![CDATA[
+            $(window).load(function() { // makes sure the whole site is loaded
+                $("#status").fadeOut(); // will first fade out the loading animation
+                $("#preloader").delay(350).fadeOut("slow"); // will fade out the white DIV that covers the website.
+                $("#preloader-container").css("position","static");
+                $(".widget .entry-container").each(function(index) {
+                    $(this).delay(400*index).animate({'opacity': 1},300);
+                    
+                });  
+            })
+        //]]>
+    </script>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="ico/favicon.png">
+        </head>
+
+    <body onload="initialize()">
+
+<!-- Preloader -->
+<div id="preloader">
+      <div id="status">
+    <div class="loadleft stick"><span></span></div>
+    <div class="loadright stick"><span></span></div>
+  </div>
+    </div>
+</div>
+<div id="map_canvas" style="opacity: 0; width:100%; height:100%"></div>
+<div class="navigation" >
+      <nav> 
+    
+    <a class="mobile-logo" data-toggle="collapse" data-target="#nav-collapse"> <span>Marine Tanguy</span> </a> 
+
+    
+    <div id="nav-collapse" class="collapse">
+          <ul class="nav">
+        
+        <li class="logo"><img src="img/marine.png" width="230" height="58"></li>
+        
+        <li> <a href="index.html" class="selected grd">Home</a></li>
+      </ul>
+        </div>
+  </nav>
+    </div>
+<div id="preloader-container">
+      <div id="container"> 
+    
+
+    <div class="widget portfolio homepage an2014">
+          <div class="entry-container span8"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-04-17.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">18/04/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-04-02.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">02/04/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-03-21.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">21/03/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-03-17.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">17/03/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-03-12.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">12/03/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-03-04.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">04/03/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-03-03.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">03/03/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-02-25.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">25/02/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span8"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-02-17.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">17/02/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span8"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-02-07.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">07/02/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2014">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2014-01-13.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2014">13/01/2014</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-12-19.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">19/12/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-11-18-2.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">18/11/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-11-18.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">18/11/2013</li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-11-13-2.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">13/11/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-11-13.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">13/11/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-10-21.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">21/10/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-10-17.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">17/10/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-10-11.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">11/10/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+        <div class="widget portfolio homepage an2013">
+          <div class="entry-container span4"> 
+        
+        <!-- Portfolio Image -->
+        <div class="entry-image"><span class="entry-image-overlay"></span> <img src="images/foot/2013-10-04.jpg" alt="" /></div>
+        <div class="entry drop-shadow curved "> 
+              
+              <!-- Portfolio Description -->
+              
+              <div class="stripes">
+            <ul class="social">
+                  <li class="social-button-team right"> <a rel="alternate" data-original-title="F24 sport"><img src="img/social-icons/logo_sp.png" alt="" /></a></li>
+                </ul>
+          </div>
+              <div class="entry-footer">
+            <ul>
+                  <li class="right margin-right"> <a href="#filter=.an2013">04/10/2013</a></li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+    
+    <!-- ================================================== --> 
+  </div>
+      <!-- #container --> 
+      
+      <!-- Load more pagination
+================================================== --> 
+      <!-- When this link is clicked, the blog will load this content dynamically -->
+      
+      <nav id="page_nav"> <a href="index2.html"></a> </nav>
+      
+      <!-- Footer
+================================================== --> 
+      <!-- Copyright & Social Buttons -->
+      
+      <div class="footer">
+    <ul>
+          <li class="left">© Copyright 2014 mahahh.com</li>
+        </ul>
+  </div>
+    </div>
+
+<!-- CHANGE HOVER TO ON CLICK FOR MOBILE DEVICES
+ ================================================== --> 
+
+<script>
+ var isiPad = /ipad/i.test(navigator.userAgent.toLowerCase());
+ 
+ if (isiPad) { 
+	 $("nav ul li").click(function() {
+	 	event.stopPropagation();
+	 	$("ul", this).toggle();
+	 });
+	
+	$(document).click( function(){
+		$('nav ul li > ul').hide();
+	});
+}
+ </script> 
+
+
+
+<script>
+$("[rel=alternate]").tooltip()
+</script> 
+
+
+
+<!-- Script for the super awesome grid (Thanks, David DeSandro) --> 
+
+<script src="js/jquery.isotope_custom.js"></script>
+</body>
+</html>

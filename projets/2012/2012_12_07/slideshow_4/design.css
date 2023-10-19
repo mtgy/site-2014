@@ -1,0 +1,214 @@
+/** 
+ * Slideshow style rules.
+ */
+#slideshow {
+	margin:0 auto;
+	width:630px;
+	height:400px;
+	background:transparent url(img/bg_slideshow.png) 0 0 repeat;
+	position:relative;
+}
+#slideshow #slidesContainer {
+  margin:0 auto;
+  width:630px;
+  height:400px;
+  overflow:no; /* affiche une scrollbar au cas ou */
+  position:relative;
+}
+#slideshow #slidesContainer .slide {
+  margin:0 auto;
+  width:560px; /* reduit de 20 pixels la div #slidesContainer pour permettre d'afficher la barre de scroll */
+  height:400px;
+}
+
+/** 
+ * Slideshow controls style rules.
+ */
+.control {
+  display:block;
+  width:39px;
+  height:263px;
+  text-indent:-10000px;
+  position:absolute;
+  cursor: pointer;
+}
+#navDiapo{
+	display:block;
+	width:20px;
+	height:20px;
+	position:absolute;
+	right:25px;
+	bottom:10px;
+	cursor:pointer;
+
+}
+#leftControl {
+  top:0;
+  left:0;
+  background:transparent url(img/control_left.png) no-repeat 0 0;
+}
+#rightControl {
+  top:0;
+  right:0;
+  background:transparent url(img/control_right.png) no-repeat 0 0;
+  padding-left: 10px;
+}
+
+/** 
+ * Style rules for Demo page
+ */
+* {
+  margin:0;
+  padding:0;
+  font:normal 13px Arial, Helvetica, sans-serif;
+  line-height:20px;
+  color:#333;
+}
+a {
+  color: #fff;
+  font-weight:bold;
+  text-decoration:none;
+}
+a:hover {
+  text-decoration:underline;
+}
+body {
+ /* background:url('img/bg_body.jpg') repeat-x #393737;*/
+}
+
+#pageContainer {
+	width:630px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+#pageContainer h1 {
+  display:block;
+  width:960px;
+  height:114px;
+  margin:auto;
+  background:transparent url(img/bg_pagecontainer_h1.png) no-repeat top left;
+  text-indent: -10000px;
+}
+.slide h2, .slide p {
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-left: 40px;
+}
+.slide p b {
+		color:#333;
+	letter-spacing:-1px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 700;
+	text-transform:uppercase;
+	font-size: 20px;
+
+	
+	}
+
+.slide h2 {
+	color:#333;
+	letter-spacing:-1px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 700;
+	text-transform:uppercase;
+	font-size: 20px;
+	
+}
+.slide img {
+  float:right;
+  margin: 0 8px 10px 15px;
+}
+#footer {
+  height:100px;
+}
+#footer p {
+  margin:30px auto 0 auto;
+  display:block;
+  width:560px;
+  height:40px;
+}
+
+/***********
+ * Admin
+ * ****************/
+.ajoutSlide{
+	display:block;
+	background-image:url('img/ajoute_slider.png');
+	width:119px;
+	height:22px;
+	text-indent:-9999px;
+	outline:none;
+}
+.admin{
+	background-image:none;
+}
+
+.admin #pageContainer{
+	width:80%;
+	margin:auto;
+}
+.admin #pageContainer h1{
+	background:transparent url(img/admin.png) no-repeat top left;
+}
+.miniature{
+	height:50px;
+	clear:left;
+	display:block;
+	position:relative;
+	left:80px;
+	height:60px;
+	padding:3px;
+	margin:3px 0px 3px 0px;
+	background-color:#555;
+}
+.supprimer{
+	background: transparent url('img/btn_suppr.png') no-repeat;
+	width:14px;
+	height:15px;
+	display:block;
+	text-indent:-9999px;
+	outline:none;
+	float:right;
+}
+form{
+	display:block;
+	float:left;
+	width:300px;
+}
+fieldset{
+	border:1px solid #525050;
+	padding:7px;
+	margin:3px;
+}
+legend{
+	font-size:1.8em;
+	display:block;
+	margin-left:250px;
+	position:absolute;
+}
+label{
+	display:block;
+	float:left;
+	width:70px;
+	text-align:right;
+	margin:3px;
+}
+button{
+	display:block;
+	clear:left;
+	color:#555;
+	margin-left:80px;
+	
+}
+input,textarea{
+	float:left;
+	width:180px;
+	margin:3px;
+	color:#555;
+}
+textarea{
+	height:100px;
+}

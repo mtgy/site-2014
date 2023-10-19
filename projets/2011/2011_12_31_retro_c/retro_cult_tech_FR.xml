@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<retro_monde_fr>
+    
+    <!---------------------------------------------------------CULTURE------------------------------------------------------------------------------------>
+
+<theme> 
+    <id>0</id><!--les numéros doivent se suivrent -->
+    <theme_titre>CULTURE</theme_titre><!--mettre titre de la catégorie (cultutre tech sport)-->
+    <evenement>Annulation de l'année du Mexique en France </evenement><!--mettre le titre de l'evenement-->
+	<img src="/retro_cult/0_cult.jpg"/>
+    <date_jour>15/02/2011</date_jour><!--trouver la date du jour ou le mois ou la saison-->
+    <texte>En février, le rejet par la justice mexicaine du pourvoi en cassation de Florence Cassez et de son transfèrement en France provoque une crise diplomatique entre Paris et Mexico. La jeune Française est emprisonnée au Mexique depuis plus de cinq ans pour des séquestrations d'otages auxquelles elle a toujours nié avoir participé. Mexico annonce son retrait de l'organisation de l'Année du Mexique en France, provoquant l'annulation de plus de 350 manifestations culturelles.</texte><!--mettre le texte-->
+    <lienRFI>http://www.rfi.fr/ameriques/20110224-le-fiasco-culturel-annee-mexique-france</lienRFI><!--mettre le lien rfi si il y a-->
+    <lienf24>http://www.france24.com/fr/20110215-mexico-retire-annee-mexique-france-fond-crise-diplomatique-cassez-florence-transferement-prison</lienf24><!--mettre le lien France 24 si il y a-->
+    <video>http://flv2010.france24.com/2011/02/WB_FR_NW_PKG_UPDATE_AFFAIRE_CASSEZ_NW217781-A-01-20110215.flv</video><!--mettre le lien video en "http//........flv" si il y a-->
+</theme>
+
+<theme> 
+    <id>1</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Aimé Césaire entre au Panthéon</evenement>
+	<img src="/retro_cult/1_cult.jpg"/>
+    <date_jour>06/04/2011</date_jour>
+    <texte>Il fut le «chantre de la négritude», un grand poète, un dramaturge ainsi qu'un homme politique actif et un militant de la décolonisation. Aimé Césaire, décédé en avril 2008, a désormais son nom gravé au Panthéon, aux côtés de ceux de Victor Schoelcher, Zola, Hugo ou Jean Moulin. Le 5 avril, la France lui a rendu un hommage solennel et hautement symbolique. Conformément à sa volonté, sa dépouille est restée en Martinique. </texte>
+    <lienRFI>http://www.rfi.fr/france/20110406-hommage-national-aime-cesaire-une-fresque-monumentale-pantheon</lienRFI>
+    <lienf24></lienf24>
+    <video>http://flv2010.france24.com/MG035824-A-01-20110405.flv</video>
+</theme>
+  
+<theme> 
+    <id>2</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>L’artiste chinois dissident Ai Weiwei est arrêté</evenement>
+	<img src="/retro_cult/2_cult.jpg"/>
+    <date_jour>05/04/2011</date_jour>
+    <texte>Le 5 avril, l'artiste et trublion Ai Weiwei est arrêté à l'aéroport international de Pékin, signe d’un durcissement de la répression du gouvernement chinois. Les autorités réagissent à l’apparition sur la Toile de messages encourageant la dissidence en Chine. Weiwei, dont la notoriété a crû sur le web, est devenu le poil à gratter du pouvoir depuis la diffusion de ses photos subversives de Tian’anmen. Libéré deux mois après, il continue de dénoncer la censure dont il fait les frais. </texte>
+    <lienRFI>http://www.rfi.fr/asie-pacifique/20111125-ai-weiwei</lienRFI>
+    <lienf24>http://www.france24.com/fr/20110404-chine-arrestation-onde-choc-ai-weiwei-trublion-blog-dissidence-never-sorry-internet</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>3</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Cinéma : tour du monde des récompenses de l’année</evenement>
+	<img src="/retro_cult/3_cult.jpg"/>
+    <date_jour>Mai</date_jour>
+	<texte>Au Festival de Cannes, "The Tree of Life" de Terrence Malick remporte la Palme d’or. Grand favori des 36e César, "Des Hommes et des Dieux" de Xavier Beauvois repart avec celui du Meilleur film. A Hollywood, "Le discours d’un roi" de Tom Hooper rafle quatre Oscar, dont celui du Meilleur film et du Meilleur acteur. Au Burkina Faso, "Pégase" du Marocain Mohamed Mouftakir remporte l’Etalon d’or du Fespaco. A Venise, le réalisateur russe Alexandre Sokourov remporte le Lion d’Or de la 68e Mostra avec son film "Faust". Enfin, "Et maintenant on va où ?", de Nadine Labaki, remporte le prix du public au Festival international du film de Toronto.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://www.france24.com/fr/category/tags-thematiques/24-images-seconde</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>4</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Jafar Panahi dans le collimateur du régime </evenement>
+	<img src="/retro_cult/4_cult.jpg"/>
+    <date_jour>15/10/2011</date_jour>
+	<texte>Le 15 octobre en Iran, la cour d'appel de Téhéran confirme la condamnation de Jafar Panahi à six ans de prison et à vingt ans d'interdiction de filmer, de voyager ou de s'exprimer, malgré la mobilisation internationale en faveur du cinéaste à la renommée mondiale. La sentence le place devant un choix cornélien : l'exil ou les geôles de la République islamique. Depuis la réélection contestée de Mahmoud Ahmadinejad en 2009, les cinéastes et les acteurs sont nombreux à avoir quitté le pays.</texte>
+    <lienRFI>http://www.rfi.fr/moyen-orient/20111015-iran-jafar-panahi-codamne-six-ans-prison-20-ans-interdiction-filme </lienRFI>
+    <lienf24>http://www.france24.com/fr/20111015-partir-rester-exil-prison-dilemme-cineastes-iraniens-jafar-panahi-mohammad-rasoulof</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>5</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Nobel de littérature </evenement>
+	<img src="/retro_cult/5_cult.jpg"/>
+    <date_jour>06/10/2011</date_jour>
+	<texte>Succédant à Mario Vargas Llosa, le poète suédois Tomas Tranströmer reçoit le Prix Nobel de littérature. Le jury, réuni à Stockholm, consacre un homme qui était déjà le plus apprécié et le plus traduit des poètes scandinaves encore en vie. Ses poèmes, qui illustrent de simples scènes de la vie quotidienne, explorent la relation entre l’intimité des individus et le monde extérieur. Il est l'auteur d'une quinzaine de recueils dont Baltiques et autres poèmes (1989) et Les souvenirs m'observent. </texte>
+    <lienRFI>http://www.rfi.fr/culture/20111006-academie-nobel-recompense-le-poete-suedois-tomas-transtroemer</lienRFI>
+    <lienf24>http://www.france24.com/fr/20111006-prix-nobel-litterature-2011-mario-vargas-llosa-bob-dylan-murakami-transtromer-delillo-augustin-trapenard-fr-culture</lienf24>
+    <video>http://medias.france24.com/2011/10/06/FRAN111006-0940-Live.flv</video>
+</theme>
+
+<theme> 
+    <id>6</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Alexis Jenni remporte le prix Goncourt, Emmanuel Carrère le Renaudot</evenement>
+	<img src="/retro_cult/6_cult.jpg"/>
+    <date_jour>02/11/2011</date_jour>
+	<texte>Alexis Jenni remporte le prix Goncourt 2011, avec son premier roman L'art français de la guerre. Ce Lyonnais de 48 ans, professeur de biologie encensé par la critique, a séduit avec sa fresque retraçant vingt années de guerre coloniale. Emmanuel Carrère remporte quant à lui le Prix Renaudot, autre grand prix de la littérature française, avec son roman Limonov. Il y dépeint la vie sulfureuse de l’opposant et écrivain russe controversé, Edouard Limonov.</texte>
+    <lienRFI>http://www.rfi.fr/culture/20110907-rentree-litteraire-2011</lienRFI>
+    <lienf24>http://www.france24.com/fr/20111102-litterature-goncourt-alexis-jenni-art-francais-guerre-gallimard-critiques-prix</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>7</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Céline privé de célébrations en 2011 </evenement>
+	<img src="/retro_cult/7_cult.jpg"/>
+    <date_jour>Janvier</date_jour>
+	<texte>En janvier, le ministre de la Culture, Frédéric Mitterrand, estime que l'écrivain Louis-Ferdinand Céline doit être exclu de la liste des célébrations nationales. Malgré la valeur littéraire de cet auteur français - le plus lu et le plus traduit dans le monde après Marcel Proust -, sa violence antisémite et sa collaboration avec le régime de Vichy jurent dans un programme qui entend célébrer "la conduite morale" et les "valeurs (…) remarquables" de certaines grandes figures. </texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://www.france24.com/fr/20110121-celine-pas-celebre-2011-culture-mitterrand-serge-klarsfeld-crif-antisemite-ferdinand</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>8</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Les artistes tunisiens font leur révolution </evenement>
+	<img src="/retro_cult/8_cult.jpg"/>
+    <date_jour>Janvier</date_jour>
+	<texte>En janvier, le rappeur tunisien El General est incarcéré pour avoir mis en ligne, via Facebook, une chanson interpellant l’ex-président tunisien Ben Ali sur la misère des jeunes. La musique ne cesse plus, dès lors, de louer la démocratie dans le monde arabe. En Egypte les chants, traditionnels ou modernes, sont omniprésents dans les lieux de la contestation. Sur la place Tahrir, entre slogans anti-Moubarak et discours politiques, ce sont les chants révolutionnaires qui unissent les foules.</texte>
+    <lienRFI>http://www.rfi.fr/afrique/20110117-le-role-artistes-tunisiens-pendant-revolution-jasmin</lienRFI>
+    <lienf24>http://www.france24.com/fr/20110214-chants-tunisie-egypte-kalsoum-cheikh-imam-el-general-donjewan-tahrir-hymne-national</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>9</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>« Les chemins de la révolution » dans le viseur de Kozyrev</evenement>
+	<img src="/retro_cult/9_cult.jpg"/>
+    <date_jour>Septembre</date_jour>
+	<texte>Le photographe russe Youri Kozyrev, de l'agence Noor, reçoit le Visa d'or catégorie News du 23e festival de photojournalisme de Perpignan, Visa pour l’Image. Il est récompensé  pour ses reportages sur "Les chemins de la révolution" dans les pays arabes pour le magazine Time. Connu pour sa couverture des conflits internationaux, il a suivi les mouvements de contestation en Egypte, au Bahreïn et en Libye. </texte>
+    <lienRFI>http://www.rfi.fr/culture/20110902-visa-image-2011</lienRFI>
+    <lienf24>http://www.france24.com/fr/category/tags-thematiques/visa-limage</lienf24>
+    <video>http://medias.france24.com/2011/09/06/MG038319-A-01-20110905.flv</video>
+</theme>
+
+<theme> 
+    <id>10</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Tremblement de terre, tsunami, Fukushima… le monde culturel se mobilise pour le Japon</evenement>
+	<img src="/retro_cult/10_cult.jpg"/>
+    <date_jour>Mars</date_jour>
+	<texte>En mars, le Japon est en deuil à la suite de tremblements de terre à répétition, d’un tsunami de très grande ampleur et d’une catastrophe nucléaire inouïe. Face à cette série de désastres, le monde de la culture en France a lancé une vague de solidarité et de mobilisation : des appels aux dons, des mises aux enchères, des concerts de solidarité, des collectes chez les spectateurs…</texte>
+    <lienRFI>http://www.rfi.fr/asie-pacifique/20110317-le-monde-culturel-mobilise-le-japon</lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>11</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Des intégristes catholiques attaquent « Piss Christ » et « Sur le concept du visage du fils de Dieu »</evenement>
+	<img src="/retro_cult/11_cult.jpg"/>
+    <date_jour>17/04/2011
+18/10/2011</date_jour>
+	<texte>Le 17 avril, avec des menaces de mort et la destruction de l’œuvre Immersion, Piss Christ au musée d’art contemporain d’Avignon, la menace contre la liberté d’expression en France atteint un niveau préoccupant. Fin octobre, une autre action de fondamentalistes chrétiens cible Sur le concept du visage du fils de Dieu, de Romeo Castellucci. Des boules puantes, du gaz lacrymogène et des œufs pourris transforment le Théâtre de la Ville de Paris en une salle de combat pour la liberté de création.</texte>
+    <lienRFI>http://www.rfi.fr/france/20110418-destruction-oeuvres-andres-serrano-menaces-mort-contre-liberte-expression</lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>12</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Les sites africains entrent en force au patrimoine mondial de l’Unesco</evenement>
+	<img src="/retro_cult/12_cult.jpg"/>
+    <date_jour>28/06/2011</date_jour>
+	<texte>Fin juin, lors de la 35e réunion du Comité du patrimoine mondial à Paris, les sites africains entrent en force au patrimoine mondial de l’Unesco. Parmi les 25 nouveaux sites admis sur la liste, il y en a cinq situés en Afrique. Il s’agit d’un très grand enjeu culturel, politique et économique. Certains parlent d’une véritable chasse à la poule aux œufs d’or. Parmi les sites retenus on retrouve le delta du Saloum, au Sénégal, et les sites archéologiques de l’île de Méroé, au Soudan.</texte>
+    <lienRFI>http://www.rfi.fr/france/20110628-sites-africains-entrent-force-le-patrimoine-mondial-unesco</lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>13</id>
+    <theme_titre>CULTURE</theme_titre>
+    <evenement>Ils nous ont quittés cette année : </evenement>
+	<img src="/retro_cult/13_cult.jpg"/>
+    <date_jour>2011</date_jour>
+	<texte>Légendes du 7e art, grands maîtres de l’art contemporain, écrivains militants et icônes musicales… Les Arts et les Lettres ont perdu cette année quelques-uns de leurs plus grands noms.
+	Art contemporain : Cy Twombly, Lucian Freud, Vann Nath… 
+	Musique et danse : Amy Winehouse, Cora Vaucaire, Roland Petit…
+	Cinéma : Elizabeth Taylor, Annie Girardot, Raoul Ruiz, Peter Falk, Jacqueline Scott Lemoine…
+	Littérature : Jorge Semprun, Edouard Glissant, Agotha Kristof…
+	</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+	<!---------------------------------------------------------SPORT------------------------------------------------------------------------------------>
+
+<theme> 
+    <id>14</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Le XV de France si près de… l’enbut</evenement>
+	<img src="/retro_sport/0_sport.jpg"/>
+    <date_jour>Septembre - Octobre</date_jour>
+	<texte>Du premier au dernier jour du Mondial de rugby, le XV de France a tout vécu. De l’humiliation de la défaite contre les Tonga à la frustration d’une finale perdue de peu en passant par la folie d’un quart remporté face à leur bête noire anglaise, les Bleus ont fait rêver autant qu’ils ont fait trembler. Mais les All Blacks, qui ne pouvaient échouer sur leurs terres, ont renvoyé à leur basse-cour les fiers coqs français qui garderont à jamais l’impression d’être passés à côté de l’Histoire.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://www.france24.com/static/infographies/webdocumentaire-top-14-legion-etrangere/index.html</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>15</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Tennis : L’année Djokovic </evenement>
+	<img src="/retro_sport/1_sport.jpg"/>
+    <date_jour>2011</date_jour>
+	<texte>Après sa victoire en Coupe Davis en 2010, Novak Djokovic a réussi l’exploit d’engranger sept victoires en sept tournois. Seul Roger Federer est parvenu à endiguer la vague "Djoker" en demi-finale de Roland-Garros. Mais cette défaite ne l’a freiné qu’un temps. Rafael Nadal, réduit au rôle de punching-ball à six reprises en finale cette saison, n’a rien pu faire ni à Wimbledon ni à l’US Open. Après presqu’un an d’une activité effrénée, son corps meurtri lui à rappeler qu’il n’était qu’un homme.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>16</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Les Tunisiens multi-champions d’Afrique </evenement>
+	<img src="/retro_sport/2_sport.gif"/>
+    <date_jour>Février - Août - Novembre</date_jour>
+	<texte>Alors que la révolution tunisienne s’achève, les sportifs tunisiens ont à cœur de briller. Les footballeurs locaux s’imposent lors du Championnat d’Afrique des nations (CHAN-2011) au Soudan, en février. Plusieurs mois plus tard, en novembre, l’Espérance Tunis remporte la Ligue des champions CAF.
+Les basketteurs ne sont pas en reste. En août, à Madagascar, ils détrônent en finale de l’Afrobasket-2011 les Angolais, maîtres du continent depuis 12 ans.
+	</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>17</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Championnat du monde de judo : Teddy Riner entre dans l’Histoire</evenement>
+	<img src="/retro_sport/3_sport.jpg"/>
+    <date_jour>Août</date_jour>
+	<texte>Six ippons. C’est ce qu’il a fallu à Teddy Riner pour s’imposer chez les plus de 100 kilos au Championnat du monde de judo. Devant son public à Paris-Bercy, le Français balaie la concurrence, dont l’Allemand Andreas Toelzer en finale, et entre dans l’histoire de son sport : à seulement 22 ans, le Guadeloupéen remporte son cinquième titre mondial, un record.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>18</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Championnat d’Europe de basket-ball : L’Espagne encore, la France aux JO</evenement>
+	<img src="/retro_sport/4_sport.jpg"/>
+    <date_jour>Août - Septembre</date_jour>
+	<texte>La sélection espagnole conserve son titre en battant la France en finale de l’Eurobasket-2011 (98-85). Espagnols et Français sont qualifiés pour les Jeux olympiques de 2012 à Londres. Pour les Bleus de Tony Parker, Boris Diaw et Joakim Noah, cette participation aux JO constitue une consécration… et un sacré bol d’air. </texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>19</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Ligue 1 : La nouvelle donne qatarie au PSG</evenement>
+	<img src="/retro_sport/5_sport.jpg"/>
+    <date_jour>Mai</date_jour>
+	<texte>Depuis qu’il a été désigné pays hôte du Mondial-2022, le Qatar n’a qu’une obsession : acquérir une légitimité dans le monde du football. Avant de nouer un partenariat avec le Barça, le Qatar Sports Investments s’est offert le Paris-Saint-Germain. Une révolution pour le football français et le club de la capitale que les nouveaux propriétaires aimeraient mener jusqu’en Ligue des champions dès 2012. Pour l’heure, le PSG occupe la tête du championnat français. Pourvu que ça dure, dit-on à Doha.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>20</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Championnats du monde d’athlétisme : La foudre est tombée sur Usain Bolt…</evenement>
+	<img src="/retro_sport/6_sport.jpg"/>
+    <date_jour>Août - Septembre</date_jour>
+	<texte>Le duel sur 100 mètres entre Usain Bolt et Tyson Gay n’a pas eu lieu. Aux Mondiaux à Daegu (Corée du Sud), l’Américain est forfait et le Jamaïcain se plante en finale avec un faux départ, qui profitera à son compatriote Yohan Blake. Bolt se "venge" ensuite sur 200 mètres et remporte le 4x100 mètres avec Blake. De son côté, le Kenya affirme sa toute-puissance sur le fond et le demi-fond avec 17 médailles et une troisième place au classement des nations derrière les États-Unis et la Russie.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>21</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Handball : Les Experts, saison 4</evenement>
+	<img src="/retro_sport/7_sport.gif"/>
+    <date_jour>Janvier</date_jour>
+	<texte>L’histoire des handballeurs français ressemble à s’y méprendre à une série américaine où tout le monde entonne "The Final Countdow" à la fin. Car depuis les Jeux olympiques de Pékin en 2008, les Experts, baptisés ainsi pour leur niveau de jeu hors norme, n’ont plus perdu. Et la chanson du mythique groupe Europe est devenue leur hymne non officiel. La saison 5 des Experts se déroulera aux JO de Londres. Pour se terminer sur un "Final Countdow" ?</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>22</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Coupe du monde de football : La révélation bleue</evenement>
+	<img src="/retro_sport/8_sport.jpg"/>
+    <date_jour>Juillet</date_jour>
+	<texte>Elles s’appellent Gaëtane, Marie-Laure, Sandrine, Elodie, Louisa… et ont fait oublier le triste fiasco de leurs homologues masculins en Afrique du Sud. Demi-finalistes de la Coupe du monde de football féminin en Allemagne, les Bleues ont prouvé que le ballon rond n’est pas seulement une histoire d’hommes.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>23</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Championnat du monde de natation : Doublé en or de Stravius et Lacourt</evenement>
+	<img src="/retro_sport/9_sport.jpg"/>
+    <date_jour>Juillet</date_jour>
+	<texte>Aucun nageur français n’avait encore eu le privilège de serrer dans sa main une médaille d’or mondiale. Et voilà que pas un mais deux Tricolores, Camille Lacourt et Jérémy Stravius, réalisent cet exploit en touchant le mur exactement au même instant aux 100 mètres dos (52.76). Un coup d’œil sur le chronomètre, une seconde d’incompréhension et l’étonnement fait rapidement place à la joie des deux nageurs, qui se partageront "La Marseillaise" sur la même marche du podium.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>24</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Rallye : Sébastien Loeb puissance 8</evenement>
+	<img src="/retro_sport/10_sport.jpg"/>
+    <date_jour>Novembre</date_jour>
+	<texte>En Formule 1, Michael Schumacher s’est arrêté à sept titres, tout comme Valentino Rossi en MotoGP. Mais Sébastien Loeb, lui, n’avait pas l’intention de s’arrêter en aussi bon chemin. Sur les routes galloises, lors du dernier rallye de la saison, l’Alsacien a profité de l’abandon de son poursuivant Mikko Hirvonen pour inscrire un huitième titre à son palmarès WRC. </texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>25</id>
+    <theme_titre>SPORT</theme_titre>
+    <evenement>Tour de France : Cadel Evans, enfin…</evenement>
+	<img src="/retro_sport/11_sport.jpg"/>
+    <date_jour>Juillet</date_jour>
+	<texte>Deuxième du Tour de France en 2007 puis en 2008, Evans a failli devenir le nouveau Poulidor du circuit... De retour dans l’Hexagone pour la septième fois de sa carrière, l’Australien s’est fait une place dans le groupe de tête. Constant dans les étapes de montagne, il termine, la veille de l'arrivée sur les Champs-Élysées, deuxième du contre-la-montre de Grenoble. Un temps qui suffit pour prendre le maillot jaune à Andy Schleck et monter, enfin, sur la plus haute marche du podium.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+	<!---------------------------------------------------------TECH------------------------------------------------------------------------------------>
+
+<theme> 
+    <id>26</id>
+    <theme_titre>TECH</theme_titre>
+    <evenement>Sony piraté</evenement>
+	<img src="/retro_tech/0_tech.jpg"/>
+    <date_jour>27/04/2011</date_jour>
+	<texte>Le 27 avril, le géant japonais de l’électronique grand public, Sony, reconnaît que des cybercriminels se sont introduits dans la base de données de leurs services de jeu et de musique en ligne. Ces pirates en ont profité pour dérober les données personnelles - dont certains numéros de cartes de crédit - de quelque 100 millions de personnes. C’est l’un des plus importants vols d’identités numériques de l’Histoire</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>27</id>
+    <theme_titre>TECH</theme_titre>
+    <evenement>La Bourse à l’ère 2.0</evenement>
+	<img src="/retro_tech/1_tech.jpg"/>
+    <date_jour>Mai</date_jour>
+	<texte>Facebook, Twitter ou LinkedIn ? Aucun des trois mousquetaires de l’Internet “social” n’aura inauguré la très attendue ruée vers les Bourses des entreprises du Web 2.0. Le 5 mai, c’est RenRen, l’un des principaux réseaux sociaux chinois, qui devient le premier représentant de ce secteur à être coté en Bourse. LinkedIn, le réseau social professionnel, franchit le pas boursier le 20 mai, et Groupon, le site d’achats groupés, fait de même le 4 novembre. L’introduction en Bourse de Facebook est attendue en 2012.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>28</id>
+    <theme_titre>TECH</theme_titre>
+    <evenement>L’Internet s’embourgeoise au G8</evenement>
+	<img src="/retro_tech/2_tech.jpg"/>
+    <date_jour>28/05/2011</date_jour>
+	<texte>Le 28 mai, le président français, Nicolas Sarkozy, inaugure le premier e-G8, le sommet de l’économie numérique sous l’égide du G8. Un grand raout qu’un grand nombre d’internautes considèrent comme un coup de com’ du chef de l’État français. Il n’empêche que la plupart des grands acteurs américains et européens du secteur ont participé à l’événement.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>29</id>
+    <theme_titre>TECH</theme_titre>
+    <evenement>Google répond (enfin) à Facebook</evenement>
+	<img src="/retro_tech/3_tech.png"/>
+    <date_jour>28/06/2011</date_jour>
+	<texte>Après avoir essuyé plusieurs revers dans le monde des réseaux sociaux, Google revient à la charge le 28 juin. Le célèbre moteur de recherche dévoile alors Google+ son "Facebook maison". Cette fois-ci, le groupe semble tenir le bon bout puisque son réseau social gagne près de 20 millions d’utilisateurs en seulement un mois. Mais dès l’automne, la croissance de Google+ semble marquer le pas. Entre-temps, Facebook s’est inspiré de la plupart des nouveautés introduites par Google.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>30</id>
+    <theme_titre>TECH</theme_titre>
+    <evenement>Google rachète Motorola Mobility</evenement>
+	<img src="/retro_tech/4_tech.jpg"/>
+    <date_jour>15/08/2011</date_jour>
+	<texte>Jamais Google n’avait dépensé autant d’argent pour une acquisition. Le 15 août, il achète Motorola Mobility pour la somme astronomique de 12,5 milliards de dollars. Google met ainsi la main sur l’un des principaux constructeurs de smartphones Android (son système d’exploitation maison) et peut ainsi, à l’instar d’Apple, contrôler toute la chaîne de production d’un téléphone. Surtout, alors que la bataille des brevets fait rage entre les deux groupes, cette acquisition permet aussi à Google de s’emparer de 17 000 brevets.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>31</id>
+    <theme_titre>TECH</theme_titre>
+    <evenement>Carol Bartz finit aux oubliettes de Yahoo!</evenement>
+	<img src="/retro_tech/5_tech.jpg"/>
+    <date_jour>07/09/2011</date_jour>
+	<texte>Le célèbre portail Internet Yahoo! se sépare, le 7 septembre, de sa patronne Carol Bartz. En trois ans de règne, elle avait fini par cristalliser tous les reproches faits à Yahoo!, passé en une décennie du statut de star incontestable du Net à celui de site vieillissant. Depuis le départ de Carol Bartz, le conseil d’administration n’a pas encore trouvé de nouveau patron “permanent” et les rumeurs se multiplient quant à un rachat éventuel de Yahoo! par Microsoft ou Google.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>32</id>
+    <theme_titre>TECH</theme_titre>
+    <evenement>Steve Jobs, la disparition d’un gourou</evenement>
+	<img src="/retro_tech/6_tech.jpg"/>
+    <date_jour>05/10/2011</date_jour>
+	<texte>Le patron fondateur d’Apple, Steve Jobs, décède le 5 octobre. Un décès qui provoque une onde de choc à travers le monde démontrant à quel point l’inventeur des iPhone et des iPad avait touché un public bien plus large que les technophiles. Chefs d’État et concurrents d’Apple saluent la mémoire d’un “inventeur de génie” et du ”plus important entrepreneur de sa génération”.</texte>
+    <lienRFI></lienRFI>
+    <lienf24></lienf24>
+    <video></video>
+</theme>
+
+	<!---------------------------------------------------------OBSERVATEURS------------------------------------------------------------------------------------>
+
+<theme> 
+    <id>33</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Dès que l’ONU tourne les talons, les soldats syriens massacrent.</evenement>
+	<img src="/retro_OBSERVATEURS/0_OBSERVATEURS.jpg"/>
+    <date_jour>22/08/2011</date_jour>
+	<texte>Une délégation de l’ONU s’était rendue cet été à Homs, en Syrie, à la grande joie des manifestants. Mais dès que les véhicules onusiens se sont éloignés, les forces de sécurité ont ouvert le feu sur la foule, faisant au moins trois morts. Des images amateurs rendent compte de cette répression particulièrement brutale.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20110822-onu-tourne-talons-soldats-syriens-massacrent</lienf24>
+    <video>http://www.youtube.com/v/XZQtRNDR0AU?version=3&amp;hl=fr_FR</video>
+</theme>
+
+<theme> 
+    <id>34</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Connaissez-vous Slimane Rouissi, l’homme qui a lancé la révolution tunisienne ?</evenement>
+	<img src="/retro_OBSERVATEURS/1_OBSERVATEURS.jpg"/>
+    <date_jour>Janvier</date_jour>
+	<texte>Les médias ont choisi de porter au pinacle les jeunes blogueurs et les "Twittos" de Tunis qui ont participé à la révolution. Pourtant, c’est par une poignée de quadragénaires de Sidi Bouzid que tout a commencé. L’un de ces militants, inconnu du grand public, revient sur ces quelques mois qui ont changé la Tunisie et le monde arabe</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20111025-connaissez-vous-slimane-rouissi-revolution-tunisienne-elections-tunisie-vote-OBSERVATEURServateurs-printemps-arabe</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>35</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Tollé en Chine après l’agonie d’une fillette dans l’indifférence générale</evenement>
+	<img src="/retro_OBSERVATEURS/2_OBSERVATEURS.jpg"/>
+    <date_jour>13/10/2011</date_jour>
+	<texte>Une caméra de surveillance a capturé le moment où la petite Yue Yue, âgée de deux ans, est renversée par un chauffard. Cette vidéo montre que ni le chauffard ni les passants ne s’arrêtent pour aider l’enfant blessé. Une affaire qui a choqué l’opinion publique chinoise.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20111017-web-chinois-ebullition-apres-video-choc-une-fillette-agonisant-indifference-general-foshan-yueyue </lienf24>
+    <video>http://www.youtube.com/v/UqVYUzHc5L8?version=3&amp;hl=fr_FR</video>
+</theme>
+
+<theme> 
+    <id>36</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>L’armée russe, une machine à broyer ses propres soldats</evenement>
+	<img src="/retro_OBSERVATEURS/3_OBSERVATEURS.jpg"/>
+    <date_jour>Septembre</date_jour>
+	<texte>Le témoignage d’un soldat qui dénonce le ‘dedovshchina’, un bizutage extrêmement brutal institutionnalisé à l’époque soviétique et encore pratiqué aujourd’hui en Russie. </texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20110905-l%E2%80%99armee-russe-machine-broyer-propres-soldats</lienf24>
+    <video>http://www.youtube.com/v/d_3MrqqKwOY?version=3&amp;hl=fr_FR</video>
+</theme>
+
+<theme> 
+    <id>37</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Le récit de la mort de Mouammar Kadhafi en images amateurs</evenement>
+	<img src="/retro_OBSERVATEURS/4_OBSERVATEURS.jpg"/>
+    <date_jour>20/11/2011</date_jour>
+	<texte>Le 20 octobre, Mouammar Kadhafi a été retrouvé dans un tunnel situé dans une zone industrielle de Syrte, sa ville natale. Quelques heures plus tard, son corps sans vie était déposé dans une villa de Misrata. Voici le récit en images amateurs d’un moment qui marquera à jamais l’histoire de la Libye.  Attention, ces images sont choquantes.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20111021-chute-tyran-images-amateurs-video-capture-syrte-mouammar-kadhafi-libye</lienf24>
+    <video>http://www.youtube.com/v/75YhFScM5sU?version=3&amp;hl=fr_FR</video>
+</theme>
+
+<theme> 
+    <id>38</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Pied de nez aux Taliban : un festival rock en plein Kaboul</evenement>
+	<img src="/retro_OBSERVATEURS/5_OBSERVATEURS.jpg"/>
+    <date_jour>Septembre - Octobre</date_jour>
+	<texte>Dix ans après la chute du régime taliban, sous lequel jouer de la musique était passible de peine de mort, la scène rock afghane a organisé son premier festival depuis 35 ans. Et pour éviter la colère des extrémistes, les festivaliers ont dû s’adapter en communiquant au dernier moment, et par textos, les lieux des concerts.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20111007-afghanistan-kaboul-festival-rock-concert-taliban-guerre-groupe-musique-liberte-securite </lienf24>
+    <video>http://www.youtube.com/v/0e_ftxVBLLo?version=3&amp;hl=fr_FR</video>
+</theme>
+
+<theme> 
+    <id>39</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Le mouvement 'Occupy Wall Street' séduit bien au-delà des frontières</evenement>
+	<img src="/retro_OBSERVATEURS/6_OBSERVATEURS.jpg"/>
+    <date_jour>Septembre</date_jour>
+	<texte>Début septembre, ils étaient quelques centaines à vouloir occuper Wall Street et tout le monde aurait parié sur un essoufflement rapide du mouvement. Pourtant, la contestation née à Manhattan a fait des émules dans tous les États-Unis et même à l’étranger. </texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20111014-mouvement-occupy-wall-street-dela-frontieres-irlande-boston-san-francisco </lienf24>
+    <video>http://www.youtube.com/v/J49AJdzxcwQ?version=3&amp;hl=fr_FR</video>
+</theme>
+
+<theme> 
+    <id>40</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>"Botzarileaks": les archives du RCD à Paris révèlent les malversations du parti de Ben Ali</evenement>
+	<img src="/retro_OBSERVATEURS/7_OBSERVATEURS.jpg"/>
+    <date_jour>21/09/2011</date_jour>
+	<texte>Des documents récupérés par FRANCE 24 dévoilent les fraudes électorales, emplois fictifs et autres malversations organisées par le parti au pouvoir en Tunisie avant la révolution.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20110921-botzarileaks-archives-rcd-paris-revelent-malversations-parti-ben-ali-tunisie-revolution</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>41</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Entre bling-bling et guerre sainte, le "gangster djihadiste" fait une entrée fracassante dans l’art afghan</evenement>
+	<img src="/retro_OBSERVATEURS/8_OBSERVATEURS.jpg"/>
+    <date_jour>Juin</date_jour>
+	<texte>Le temps d’une série de photos, Amanullah Mojadidi, un artiste afghan né aux États-Unis, a fait se rencontrer djihadisme et style bling-bling du gangsta rap américain. Un travail qui n’a pas beaucoup plu aux autorités.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20110603-gangster-djihadiste-provocation-fait-son-entree-art-afghanistan-amanullah-mojadidi </lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>42</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Leçon numéro 1 de fraude électorale : faire voter les mineurs</evenement>
+	<img src="/retro_OBSERVATEURS/9_OBSERVATEURS.jpg"/>
+    <date_jour>Juin</date_jour>
+	<texte>Dans la province du Katanga, dans le sud-est de la RDC, on aurait distribué des cartes d’électeur à des enfants d’une dizaine d’années.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20110615-rdc-congo-elections-presidentielle-legislatives-enrolement-cni-electeur-carte-enfants-fraude</lienf24>
+    <video></video>
+</theme>
+
+<theme> 
+    <id>43</id>
+    <theme_titre>OBSERVATEURS</theme_titre>
+    <evenement>Deux hommes brûlés vifs à Abidjan sous les yeux des forces de l'ordre</evenement>
+	<img src="/retro_OBSERVATEURS/10_OBSERVATEURS.jpg"/>
+    <date_jour>28/03/2011</date_jour>
+	<texte>Nous avons reçu en mars dernier une terrible vidéo montrant deux hommes se faire brûler vifs par une foule en Côte d’Ivoire. L’un de nos observateurs a pu confirmer que cette scène s’est déroulée près de chez lui dans la commune de Yopougon à Abidjan.</texte>
+    <lienRFI></lienRFI>
+    <lienf24>http://OBSERVATEURServers.france24.com/fr/content/20110307-deux-hommes-brules-vifs-abidjan-yopougon-video-atrocite-milices-gbagbo-patriotes</lienf24>
+    <video></video>
+</theme>
+
+</retro_monde_fr>

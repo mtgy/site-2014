@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* SpryTooltip.css - version 0.2 - Spry Pre-Release 1.6.1 */
+
+/* Copyright (c) 2006. Adobe Systems Incorporated. All rights reserved. */
+
+/* HACK FOR IE: to make sure the tooltips show above form controls, we underlay each tooltip with an iframe */
+.iframeTooltip {
+	position: absolute;
+	z-index: 1010;
+ filter:alpha(opacity:0.1);
+}
+.tooltipContent {
+	box-shadow: 2px 2px 5px #555555;
+	color: #FFF;
+	font-family: arial;
+	font-size: 13px;
+	font-weight: 700;
+	padding: 3px;
+	text-align: center;
+	line-height: 12px;
+}
+.tooltipContent h1 {
+	font-size: 2em;
+	padding: 18px;
+	background-color: #FFF;
+
+	height: -4px;
+}
+.col01 {
+	color:#666;
+	background-color: #FDDF87;
+}
+.col01 h1 {
+	color:#666;
+}
+.col02 {
+		color:#666;
+
+	background-color: #E1D158;
+}
+.col02 h1 {
+	color:#666;
+}
+.col03 {
+		color:#666;
+
+	background-color: #E5D259;
+}
+.col03 h1 {
+	color:#666;
+
+}
+.col04 {
+		color:#666;
+
+	background-color: #C6CA51;
+}
+.col04 h1 {	color:#C6CA51;
+}
+.col05 {
+	background-color: #B7C54C;
+}
+.col05 h1 {	color:#B7C54C;
+}
+.col06 {
+	background-color: #62803A;
+}
+.col06 h1 {	color: #62803A;
+}
+.col07 {
+	background-color: #ED836D;
+}
+.col07 h1 {	color:#ED836D;
+}
+.col08 {
+	background-color: #D3534A;
+}
+.col08 h1 {	color: #D3534A;
+}
+.col09 {
+	background-color: #C05148;
+}
+.col09 h1 {	color: #C05148;
+}
+.col10 {
+	background-color: #B21E2E;
+}
+.col10 h1 {	color:#B21E2E;
+}
+.col11 {
+	background-color: #000000;
+}
+.col11 h1 {	color:#000000;
+}

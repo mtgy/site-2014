@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link rel="stylesheet" href="design.css" media="all" />
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	//Configuration
+		  var retour = true;
+		  var tempsTransition = 1000;
+		  var affichePlayPause = true;
+		  var lectureAutomatique = false;
+		  	var tempsAttente = 6000;
+			
+		  var icones = new Array();
+		  		icones['play'] = 'img/play_slider.png';
+		  		icones['pause'] = 'img/pause_slider.png';	
+			
+		  var currentPosition = 0;
+		  var slideWidth = 630;
+		  var slides = $('.slide');
+		  var numberOfSlides = slides.length;
+		  var interval;
+		  var lectureEnCours = false;
+  // Supprime la scrollbar en JS
+  $('#slidesContainer').css('overflow', 'hidden');
+
+  // Attribue  #slideInner  à toutes les div .slide
+  slides
+    .wrapAll('<div id="slideInner"></div>')
+    // Float left to display horizontally, readjust .slides width
+	.css({
+      'float' : 'left',
+      'width' : slideWidth
+    });
+
+  // Longueur de #slideInner égale au total de la longueur de tous les slides
+  $('#slideInner').css('width', slideWidth * numberOfSlides);
+
+  // Insert controls in the DOM
+  $('#slideshow')
+    .append('<span class="control" id="leftControl">Précédent</span>')
+    .append('<span class="control" id="rightControl">Suivant</span>');
+
+
+  
+  // Hide left arrow control on first load
+  manageControls(currentPosition);
+
+  //Crée un écouteur d'évènement de type clic sur les classes .control
+  $('.control')
+    .bind('click', function(){
+		
+    // Determine la nouvelle position
+	currentPosition = ($(this).attr('id')=='rightControl') ? currentPosition+1 : currentPosition-1;
+    
+	if(currentPosition == numberOfSlides && retour == false ){
+		currentPosition--;
+		pause();
+	}
+	
+	// Cache ou montre les controles
+    manageControls(currentPosition);
+    // Fais bouger le slide
+    $('#slideInner').animate({
+      'marginLeft' : slideWidth*(-currentPosition)
+    },tempsTransition);
+  });
+
+  // manageControls: Cache ou montre les flêches de controle en fonction de la position courante
+  function manageControls(position){
+    // Cache la fleche "précédent" si on est sur le premier slide
+	if(position==0){ $('#leftControl').hide() } else{ $('#leftControl').show() }
+	// Cache la fleche "suivant" si on est sur le dernier slide (et que le retour automatique n'est pas activé)
+    if(position==numberOfSlides-1 && retour == false){
+		$('#rightControl').hide();
+	} else {
+		$('#rightControl').show();
+	}
+	if(position == numberOfSlides && retour == true){
+		currentPosition = 0;
+		 $('#leftControl').hide();
+	}
+  }
+  function suivant(){
+	$('#rightControl').click();
+	}
+  function start() {
+  	lectureEnCours = true;
+    interval = setInterval(suivant, tempsAttente );
+  }
+  function pause() {
+  	lectureEnCours = false;
+   clearInterval(interval);
+  }
+  
+ //Si le diapo est activé 
+if(lectureAutomatique == true){
+  start();
+}
+if(affichePlayPause == false){
+	$('#slidesContainer').prepend('<img id="navDiapo" src="" alt="Navigation diaporama" />');
+	if(lectureAutomatique == true){
+		$('#navDiapo').attr('src',icones['pause']);
+	}else{
+		$('#navDiapo').attr('src',icones['play']);	
+	}
+	$('#navDiapo').bind('click', function(){
+		if(lectureEnCours == true){
+			$(this).attr('src',icones['play']);
+			pause();
+		}else{
+			$(this).attr('src',icones['pause']);
+			start();
+		}
+	});
+}
+
+
+  	
+});
+</script>
+</head>
+<body>
+<div id="pageContainer">
+ 
+  <!-- Slideshow HTML -->
+  <div id="slideshow">
+    <div id="slidesContainer">
+    	
+      <div class="slide">
+      <div style="margin-right:30px; text-align:justify">
+
+        <h2>Christian Jouault</h2>
+        <p>
+          <img src="img/img_slide_01.jpg" alt="Christian Jouault" width="536" height="257" />
+        <p>Christian Jouault est originaire de Normandie, en France, mais il a quitté son pays natal en 1990 car il s'y sentait "enfermé", "pas libre". Après quelques années passées à Los Angeles, il s'est installé à Miami où il a ouvert un restaurant, "le café Bastille".
+</p>
+
+      </div>
+      </div>
+      
+             <div class="slide">
+      <div style="margin-right:30px; text-align:justify">
+
+        <h2></h2>
+        <p><img src="img/img_slide_02.jpg" alt="Christian Jouault" width="536" height="240" />
+
+<p>Il possède désormais la double nationalité, française et américaine, et peut donc participer aux élections des deux côtés de l'Atlantique. "J'ai voté pour Marine Le Pen et Barack Obama", explique-t-il fièrement, assurant ne pas trouver étrange de soutenir à la fois une candidate d'extrême droite et un autre classé à gauche. "Le Parti démocrate serait de droite s'il existait en France, se justifie-t-il. D'ailleurs, la plupart des Français de Miami sont pro-Obama tout en ayant voté pour Sarkozy ou Le Pen."
+</p>
+
+      </div>
+      </div>     
+      
+      
+       <div class="slide">
+      <div style="margin-right:30px; text-align:justify">
+
+        <h2></h2>
+        <p><img src="img/img_slide_03.jpg" alt="Christian Jouault" width="536" height="265" />
+
+<p>Il assure qu'il y a "beaucoup trop de social" dans son pays d'origine, même s'il souhaiterait que les États-Unis adoptent un système de santé à la française. "L'Obamacare est une bonne chose pour les États-Unis. Je trouve scandaleux qu'un de mes employés, qui souffre de diabète, se fasse rejeter de toutes les compagnies d'assurance privées", assène-t-il.
+</p>
+
+      </div>
+      </div>
+      
+      <div class="slide">
+      <div style="margin-right:30px; text-align:justify">
+        <h2></h2>
+        <p><img src="img/img_slide_04.jpg" width="536" height="327" alt="Christian Jouault
+" />
+        Quant à Mitt Romney, il assure ne pas être impressionné par le personnage : "C'est un businessman comme moi, mais ça ne veut pas dire qu'il ferait un bon chef d'État".
+</p>
+        
+      </div></div>
+      
+      
+    
+   
+    
+  </div>
+  </div>
+  <!-- Slideshow HTML -->
+ 
+</div>
+</body>
+</html>

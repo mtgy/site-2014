@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<retro_monde_fr>
+    
+    <!---------------------------------------------------------JANVIER------------------------------------------------------------------------------------>
+	
+	
+	  <theme> 
+
+    <id>0</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>ESTONIE</theme_titre>
+    <evenement>Entrée du pays dans la zone euro</evenement>
+    <img src="/01-janvier/01_01.jpg"/>
+    <date_jour>01/01/2011</date_jour>
+    <texte>Entrée dans l'Union européenne en 2004, l'Estonie devient le 17e État membre de la zone euro. Elle est le premier pays de l'ex-Union soviétique à adopter la monnaie unique.</texte>
+    <liens>http://www.rfi.fr/europe/20110103-estonie-nouveau-venu-vertueux-zone-euro</liens>
+    <desc_media>Les Estoniens couronnent l'euro, Grand Reportage de Patricia Lecompte</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/magazines/r132/grand_reportage_20110114_1310.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>1</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>AUSTRALIE</theme_titre>
+    <evenement>Inondations meurtrières dans la zone du Queensland</evenement>
+    <img src="/01-janvier/02_01.jpg"/>
+    <date_jour>02/01/2011</date_jour>
+    <texte>Les inondations sans précédent qui affectent le nord-est de l'Australie ravagent les récoltes et les exploitations minières de l'État du Queensland, la principale région de production charbonnière du pays. Au moins 35 personnes perdent la vie et les dégâts se chiffrent à des centaines de millions d'euros. La ville de Rockhampton a particulièrement souffert.</texte>
+    <liens>http://www.rfi.fr/europe/20110103-estonie-nouveau-venu-vertueux-zone-euro</liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110201-australie-inondation-Queensland-Rockhampton-france24</contenu_f24>
+    <desc_contenu_f24>Reportage à Depot Hill, banlieue défavorisée, construite dans une zone inondable. Reporters de Bryce MILLAR / Fanou FILALI</desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>2</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>BRÉSIL</theme_titre>
+    <evenement>Des pluies diluviennes provoquent des inondations et des glissements de terrain</evenement>
+    <img src="/01-janvier/03_01.jpg"/>
+    <date_jour>Début janvier</date_jour>
+    <texte>Des torrents d'eau et de boue, provoqués par des pluies diluviennes, dévastent la région montagneuse de Serrana, au nord de Rio de Janeiro, faisant près de 1 000 morts. Cette catastrophe, la première à laquelle est confrontée la présidente Dilma Rousseff depuis son arrivée à la tête du pays, touche surtout les logements de fortune installés au pied des collines.</texte>
+    <liens>http://www.rfi.fr/ameriques/20110114-inondations-le-bresil-pleure-morts</liens>
+    <desc_media>Brésil : colère et désarroi chez les sinistrés des inondations - Grand Reportage de François Cardona</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/magazines/r133/grand_reportage_20110202_1310.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  
+  <theme>
+    <id>3</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>NIGER</theme_titre>
+    <evenement>Enlèvement et assassinat de deux jeunes français au Niger</evenement>
+    <img src="/01-janvier/04_01.jpg"/>
+    <date_jour>07/01/2011</date_jour>
+    <texte>Deux ressortissants français, Antoine de Léocour et Vincent Delory, sont enlevés le 7 janvier dans un restaurant de Niamey. Au cours de l'assaut destiné à les libérer, mené par les forces spéciales françaises et la gendarmerie nigérienne en territoire malien, neuf personnes périssent : les deux otages, trois gendarmes et quatre ravisseurs. Le 16 janvier, Al-Qaïda au Maghreb islamique (Aqmi) revendique le rapt des otages.</texte>
+    <liens>http://www.rfi.fr/afrique/20110109-mort-otages-francais-niger-recit-une-journee-dramatique</liens>
+    <desc_media>Le récit de Mamane Rabiou Aboubacar. Ce témoin raconte la scène de l'enlèvement dans le restaurant et la course poursuite qu'il a tenté d'engager avec les ravisseurs, sans succès...</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201101/51_-_NIGER_Son_Temoin_Mamane_Rabiou_Aboubacar.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110109-niger-liberation-avortee-deux-otages-francais-comporte-zones-ombre-mali-terroristes-sarkozy-fillon</contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/01/WB_FR_NW_PKG_OTAGES_NIGER_UPDATE_V2_2H_NW175097-A-01-20110110.flv</video>
+  </theme>
+  
+  
+  <theme>
+    <id>4</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>SOUDAN</theme_titre>
+    <evenement>Tenue du référendum sur l'indépendance du Soudan du Sud</evenement>
+    <img src="/01-janvier/05_01.jpg"/>
+    <date_jour>9 au 15/01</date_jour>
+    <texte>La population se détermine à 98,8% pour l'indépendance de la province. Mais les violences vont se poursuivre les mois suivants. Cette reprise du conflit va provoquer le déplacement de plus de 60 000 personnes. Le 9 juillet, la République du Soudan du Sud devient le 193e État membre de l'ONU.</texte>
+    <liens>http://www.rfi.fr/afrique/20110708-sud-soudan-long-parcours-independance-dossier-chronologie-reportages</liens>
+    <desc_media>RFI Grand Reportage : Sud-Soudan, les espoirs d'un futur pays.</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/magazines/r133/grand_reportage_20110222_1310.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110709-soudan-sud-independance-salva-kiir-pr%C3%A9sident-juba</contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/07/WB_FR_NW_PKG_CEREMONIE_TEMPS_FORTS_15H_NW391067-A-01-20110709.flv</video>
+  </theme>
+  
+  <theme>
+    <id>5</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>TUNISIE</theme_titre>
+    <evenement>Le président Ben Ali démissionne et fuit en Arabie saoudite</evenement>
+    <img src="/01-janvier/06_01.jpg"/>
+    <date_jour>14/01/2011</date_jour>
+    <texte>Des émeutes se produisent dans le pays à partir du 17 décembre 2010 après que Mohamed Bouazizi, vendeur ambulant dont l'étal avait été confisqué par la police, s'est immolé par le feu à Sidi Bouzid. L'état d'urgence est décrété. Le 14 janvier, le Président Zine El Abidine Ben Ali annonce le limogeage du gouvernement et l'organisation d'élections, puis quitte la présidence, s'enfuit du pays et se réfugie en Arabie saoudite.</texte>
+    <liens>http://www.rfi.fr/afrique/20110114-tunisie-ben-ali-quitte-le-pays-le-premier-ministre-assure-interim</liens>
+    <desc_media>Déclaration de Mohammed Ghannouchi, président par intérim de la Tunisie</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201101/TUNISIe_son_1er_ministre_par_interim_mohamed_Ghannouchi.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110115-france-paris-tunisie-ben-ali-revolution-jasmin-tunisiens</contenu_f24>
+    <desc_contenu_f24>Reportage à Paris</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/01/WB_FR_NW_PKG_FRANCE_TUNISIE_POLITIQUE_20H_NW180742-A-01-20110115.flv</video>
+  </theme>
+  
+  <theme>
+    <id>6</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Marine Le Pen succède à son père Jean-Marie Le Pen à la tête du Front National</evenement>
+    <img src="/01-janvier/07_01.jpg"/>
+    <date_jour>15/01/2011</date_jour>
+    <texte>Marine Le Pen succède officiellement à son père, Jean-Marie Le Pen, à la tête du Front national en remportant largement, avec plus des deux tiers des voix, la consultation interne au FN. Le parti d'extrême droite se met désormais en ordre de bataille en vue de la présidentielle de 2012.</texte>
+    <liens>http://www.rfi.fr/france/20110116-france-marine-le-pen-largement-elue-tete-front-national</liens>
+    <desc_media>Déclaration de Marine Le Pen</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201101/MARINE_LE_PEN_son_TF1_13h_d_ores_et_deja_en_campagne.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110114-politique-front-national-front-national-jean-marie-le-pen-portrait-fn-extreme-droite-marine-tours   ET  http://www.france24.com/fr/20110922-front-national-extreme-droite-economie-italie-</contenu_f24>
+    <desc_contenu_f24>Retour sur le portrait de Jean-Marie Le Pen par F24</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/01/WB_FR_NW_PKG_FR2_SUCCESSION_LE_PEN_15H_NW179466-A-01-20110114.flv</video>
+  </theme>
+  
+  <theme>
+    <id>7</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>HAÏTI</theme_titre>
+    <evenement>Retour de l'ancien dictateur Jean-Claude Duvalier</evenement>
+    <img src="/01-janvier/08_01.jpg"/>
+    <date_jour>16/01/2011</date_jour>
+    <texte>Après 25 ans d'exil en France, l'ancien président "à vie", qui avait été renversé par une révolte populaire, revient à Port-au-Prince pour "aider" le peuple haïtien, un an après le tremblement de terre dévastateur de janvier 2010. Le 19 janvier, J.C. Duvalier est arrêté et inculpé par la justice haïtienne pour corruption, détournement de fonds publics et association de malfaiteurs sous sa présidence, de 1971 à 1986.</texte>
+    <liens>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201101/14_HAITI_son_PARTISANT_1_2h.mp3</liens>
+    <desc_media>Un partisan de Jean-Claude Duvalier accueille son leader à l'aéroport.</desc_media>
+    <liens_media>ment.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201101/14_HAITI_son_PARTISANT_1_2h.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110117-jean-claude-duvalier-bebe-doc-portrait-dictateur-exile-retour-haiti-corruption-politique-france-asile</contenu_f24>
+    <desc_contenu_f24>"Bébé Doc", dictateur sur le retour ?</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/01/WB_FR_NW_PKG_HAITI_DUVALIER_V2_15H_NW182875-A-01-20110117.flv</video>
+  </theme>
+  
+  <theme>
+    <id>8</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>ÉGYPTE</theme_titre>
+    <evenement>Début des manifestations place Tahrir</evenement>
+    <img src="/01-janvier/09_01.jpg"/>
+    <date_jour>25/01/2011</date_jour>
+    <texte>De violents affrontements ont opposé manifestants et forces de l'ordre dans plusieurs villes égyptiennes, lors de manifestations contre le régime de Moubarak. Un bilan fait état de trois morts. Ces manifestations sont les plus importantes depuis les émeutes de 1977 qui avaient été provoquées par une hausse du prix du pain.</texte>
+    <liens></liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110125-egyptiens-appeles-a-manifester-le-modele-tunisien-egypte-manifestations-regime-moubarak-reformes-economiques-social</contenu_f24>
+    <desc_contenu_f24>reportage de Ahmed Hassan SAMI et de Marion Touboul (correspondants)</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/01/WB_FR_NW_PKG_FOCUS_Matin_0125_EGYPTE_Scenario_a_la_tunisienne_NW190318-A-01-20110123.flv</video>
+  </theme>
+  
+  <theme>
+    <id>9</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>YÉMEN</theme_titre>
+    <evenement>Des dizaines de milliers de manifestants défient le pouvoir à travers le pays</evenement>
+    <img src="/01-janvier/10_01.jpg"/>
+    <date_jour>27/01/2011</date_jour>
+    <texte>A l'appel de l'opposition, les manifestations débutent fin janvier et demandent la démission du président Ali Abdallah Saleh, au pouvoir depuis 32 ans, dont 21 à la tête du Yémen réunifié. Le 3 juin, Ali Abdallah Saleh et plusieurs hauts responsables gouvernementaux sont blessés dans le bombardement de la mosquée du palais présidentiel. Le président est transféré dans un hôpital militaire saoudien à Ryad.</texte>
+    <liens>http://www.rfi.fr/moyen-orient/20110603-strategie-pire-0</liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24>http://www.france24.com/fr/20111021-reporters-yemen-sanaa-capitale-repression-forces-loyalistes-general-dissident-combattants-tribaux-contestation</contenu_f24>
+    <desc_contenu_f24>C'est un reporter qui revient sur les grandes étapes de la contestation</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/10/20/MG039073-A-01-20111019.flv</video>
+  </theme>
+  <theme>
+    <id>10</id>
+    <mois>Janvier 2011</mois>
+    <theme_titre>NIGER</theme_titre>
+    <evenement>Élections présidentielle et législatives</evenement>
+    <img src="/01-janvier/11_01.jpg"/>
+    <date_jour>31/01/2011</date_jour>
+    <texte>L'opposant historique Mahamadou Issoufou obtient 36% des suffrages au premier tour de l'élection présidentielle, tandis que l'ex-Premier ministre Seïni Oumarou est crédité de 23%. Le 12 mars, le second tour confirme la victoire de Mahamadou Issoufou par 58% des voix, contre 42% à son rival. Cette élection achève un processus électoral destiné à rétablir un régime civil, après un an de junte militaire à la suite du coup d'Etat de février 2010 contre Mamadou Tandja.</texte>
+    <liens>http://www.rfi.fr/afrique/20110316-mahamadou-issoufou-nouveau-president-niger-le-combat-continue</liens>
+    <desc_media>Mahamadou Issoufou, nouveau président nigérien</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201103/NIGER_Son_ISSOUFOU.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  
+  <!---------------------------------------------------------FEVRIER------------------------------------------------------------------------------------>
+  
+  <theme>
+    <id>11</id>
+    <mois>Février 2011</mois>
+    <theme_titre>SÉNÉGAL</theme_titre>
+    <evenement>Onzième Forum social mondial à Dakar</evenement>
+    <img src="/01-fevrier/01_02.jpg"/>
+    <date_jour>06-11/02/2011</date_jour>
+    <texte>Le Forum Social Mondial s'est tenu cette année en Afrique. Il est organisé dans un contexte mondial marqué par la crise profonde du système néolibéral. Celle-ci avait été précédée par la crise alimentaire mondiale qui a ajouté des millions de personnes à la liste déjà longue de celles qui souffrent chroniquement de la faim. Ouvert sur un vent de révoltes, le Forum s'est conclu dans l'espérance suscitée par les soulèvements arabes.</texte>
+    <liens></liens>
+    <desc_media>Le président bolivien Evo Moralès : «il faut changer de modèle économique»</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201102/57_-_SENEGAL_-_Son_Evo_Morales_-.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  
+  <theme>
+    <id>12</id>
+    <mois>Février 2011</mois>
+    <theme_titre>ÉGYPTE</theme_titre>
+    <evenement>Hosni Moubarak démissionne, la Constitution est suspendue, le Parlement dissous</evenement>
+    <img src=""/>
+    <date_jour>11/02/2011</date_jour>
+    <texte>Le président Hosni Moubarak quitte le pouvoir après 18 jours d'une mobilisation sans précédent dans l'histoire de la République arabe d'Égypte. </texte>
+    <liens></liens>
+    <desc_media>Annonce de la démission par Omar Souleimane, vice-président égyptien</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201102/SOT_SOULEYMAN_annonce_depart_Moubarak.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24> Reporter de Karim Hakiki et Johan Bodin. + portrait de Moubarak, pharaon déchu </desc_contenu_f24>
+    <video>http://flv2010.france24.com/MG034888-A-01-20110210.flv</video>
+  </theme>
+  <theme>
+    <id>13</id>
+    <mois>Février 2011</mois>
+    <theme_titre>NOUVELLE-ZÉLANDE</theme_titre>
+    <evenement> Un violent tremblement de terre dévaste Christchurch</evenement>
+    <img src=""/>
+    <date_jour>22/02/2011</date_jour>
+    <texte>Un violent séisme a frappé Christchurch, la deuxième ville de Nouvelle-Zélande, faisant au moins 75 morts et 300 disparus. 100 000 bâtiments se sont effondrés après le tremblement de terre d'une magnitude de 6,3. Christchurch devait accueillir sept rencontres de la Coupe du monde de rugby en septembre et octobre.</texte>
+    <liens></liens>
+    <desc_media>Témoignage de Bob Parker, maire de Christchurch</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201102/NLLE_ZELANDE_son_maire_Bob_Parker_7h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>PKG du desk télé </desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/02/WB_FR_NW_PKG_NVELLE_ZELANDE_SEISME_V2_NW227763-A-01-20110223.flv</video>
+  </theme>
+  
+  <!---------------------------------------------------------MARS------------------------------------------------------------------------------------>
+  
+  <theme>
+    <id>14</id>
+    <mois>Mars 2011</mois>
+    <theme_titre>JAPON</theme_titre>
+    <evenement> Un puissant séisme, suivi d'un tsunami, frappe le Japon</evenement>
+    <img src=""/>
+    <date_jour>11/03/2011</date_jour>
+    <texte>Le séisme, suivi d'un tsunami dévastateur, provoque un accident nucléaire dans la centrale Fukushima. Plusieurs réacteurs sont endommagés par une fusion partielle de leur cœur. Selon un bilan de la police, ces catastrophes ont causé 9 487 décès et 15 617 personnes sont officiellement portées disparues. Le gouvernement japonais estime que le coût du séisme pourrait dépasser l'équivalent de 200 milliards d'euros.</texte>
+    <liens></liens>
+    <desc_media>Premier témoignage du correspondant à Tokyo, Frédéric Charles</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201103/JAPON_temoignage_Frederic_Charles.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/03/WB_FR_NW_PKG_UPDATE_NUCLEAIRE_JAPON_NW249470-A-01-20110313.flv</video>
+  </theme>
+  <theme>
+    <id>15</id>
+    <mois>Mars 2011</mois>
+    <theme_titre>BÉNIN</theme_titre>
+    <evenement>Boni Yayi remporte l'élection présidentielle</evenement>
+    <img src=""/>
+    <date_jour>13/03/2011</date_jour>
+    <texte>14 candidats étaient en lice pour le scrutin. La confusion s'installe avant la proclamation des résultats. Les partisans du président sortant, Boni Yayi, l'annoncent victorieux dès le premier tour avec plus de 55% des voix, tandis que l'opposition, emmenée par le candidat de l'Union pour la nation, Adrien Houngbédji, dénonce des fraudes. Le 21 mars, la Cour constitutionnelle valide la victoire de Boni Yayi avec 53%.</texte>
+    <liens></liens>
+    <desc_media>Reportage - Réaction des Béninois face aux résultats de l'élection </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201103/BENIN_SON_20_H_30_RETAILLE.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage vidéo : La réélection de Boni Yayi validée par le Conseil constitutionnel </desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/03/WB_FR_MG_PKG_F24_BENIN_OPPOSITION_DENONCE_DES_FRAUDES_NW261120-A-01-20110323.flv</video>
+  </theme>
+  <theme>
+    <id>16</id>
+    <mois>Mars 2011</mois>
+    <theme_titre>LIBYE</theme_titre>
+    <evenement>Le Conseil de sécurité autorise des frappes aériennes contre les forces de Kadhafi</evenement>
+    <img src="/03-MARS/_01.jpg"/>
+    <date_jour>17/03/2011</date_jour>
+    <texte>Le Conseil de sécurité de l'ONU adopte la résolution 1973 qui prévoit d'instaurer une zone d'exclusion aérienne au-dessus de la Libye et de "prendre toutes les mesures nécessaires pour protéger les populations civiles". Deux jours plus tard, une coalition occidentale, emmenée par la France, lance l'opération baptisée "Aube de l'odyssée", la plus grosse intervention militaire dans le monde arabe depuis l'invasion de l'Irak en 2003.</texte>
+    <liens></liens>
+    <desc_media>Reportage à Benghazi, où l'on reconnait que sans la coalition, les insurgés ne pourraient pas avancer. </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201103/52_-_LIBYE_enrobe_coalition_benghazi.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/03/WB_FR_NW_SOT_1_SARKO_16H_NW256392-A-01-20110319.flv</video>
+  </theme>
+  <theme>
+    <id>17</id>
+    <mois>Mars 2011</mois>
+    <theme_titre>SYRIE</theme_titre>
+    <evenement>Manifestations historiques contre le régime de Bachar al-Assad</evenement>
+    <img src="/03-mars/04_01.jpg"/>
+    <date_jour>18/03/2011</date_jour>
+    <texte>La Syrie a été le théâtre d'importantes manifestations hostiles au régime du président Bachar al-Assad, au pouvoir depuis 2000. Au moins quatre personnes ont été tuées. </texte>
+    <liens>http://www.france24.com/fr/20110328-prison-prix-a-payer-liberte-haytham-al-maleh-syrie-droit-manifestation-detention-damas-etat-urgence</liens>
+    <desc_media>Interview de Falah Aïach, opposant au régime de Damas </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201103/07_SYRIE_SON_2_OPPOSANT_le_regime_va_faire_tout_pour_se_maintenir_au_3_24_2011-19.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>18</id>
+    <mois>Mars 2011</mois>
+    <theme_titre>ÉGYPTE</theme_titre>
+    <evenement>Une très large majorité des Égyptiens vote une révision de la Constitution</evenement>
+    <img src="/03-MARS/04_01.jpg"/>
+    <date_jour>19/03/2011</date_jour>
+    <texte>Plus de 77% des électeurs égyptiens ont approuvé les amendements constitutionnels soumis à référendum. La victoire du "oui" ouvre la porte à des élections législatives organisées dans les six mois à venir. Ce référendum était le premier scrutin depuis le départ de Moubarak, chassé du pouvoir le 11 février par une contestation populaire sans précédent, et la remise de ses pouvoirs à l'armée.</texte>
+    <liens></liens>
+    <desc_media>Journée de référendum avec le réalisateur égyptien Yousry Nasrallah</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201103/EGYPTE_enr_referundum_21h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage le jour du vote de Sonia Dridi</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/03/WB_FR_NW_PKG_EGYPTE_REFERENDUM_F24_3H_NW257901-A-01-20110320.flv</video>
+  </theme>
+  
+  <!---------------------------------------------------------AVRIL--[19]---------------------------------------------------------------------------------->
+  <theme>
+    <id>19</id>
+    <mois>Avril 2011</mois>
+    <theme_titre>CÔTE D'IVOIRE</theme_titre>
+    <evenement>Arrestation de Laurent Gbagbo</evenement>
+    <img src="/04-avril/_01.jpg"/>
+    <date_jour>11/04/2011</date_jour>
+    <texte>Un peu plus de 4 mois après le scrutin présidentiel, le président sortant Laurent Gbagbo est interpelé par les forces pro-Ouattara soutenues par l'Onuci et la force Licorne, selon le ministre français de la Défense, Gérard Longuet. Alain Toussaint, un porte-parole de Laurent Gbagbo, affirme, au contraire, qu'il a été arrêté par les forces françaises et remis « aux chefs de la rébellion ». Laurent Gbagbo est transféré à l'Hôtel du Golf.</texte>
+    <liens></liens>
+    <desc_media>Déclaration solennelle d'Alassane Ouattara, le président élu de Côte d'Ivoire, après l'arrestation de Laurent Gbagbo.</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201104/52_CIV_son_Ouattara_3_Invitation_reconciliation.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage exclusif France 24 : à l'hôtel du Golf, pendant l'attaque du camp Gbagbo, deux jours avant son arrestation. Par Luc Bragonne / Marc Smith, envoyés spéciaux de FRANCE 24 en Côte d'Ivoire.</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/04/WB_FR_NW_GRAB_MARC_SMITH_21H_NW282663-A-01-20110410.flv</video>
+  </theme>
+  <theme>
+    <id>20</id>
+    <mois>Avril 2011</mois>
+    <theme_titre>HAÏTI</theme_titre>
+    <evenement>Le chanteur Michel Martelly est élu président</evenement>
+    <img src="/04-avril/02_04.jpg"/>
+    <date_jour>05/04/2011</date_jour>
+    <texte>Les Haïtiens ont voté le 20 mars pour le second tour de l'élection présidentielle et choisi entre le chanteur populaire Michel Martelly et l'ancienne première dame, Mirlande Manigat, figure de l'opposition. La campagne aura été marquée par le retour au pays de deux anciens présidents, Jean-Bertrand Aristide et Jean-Claude Duvalier.</texte>
+    <liens></liens>
+    <desc_media>Entretien avec Michel Martelly</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201105/INVITE_MONDE_HAITI_4_05_Michel_Martelly_president_elu.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>21</id>
+    <mois>Avril 2011</mois>
+    <theme_titre>PORTUGAL</theme_titre>
+    <evenement>Lisbonne demande officiellement l'aide financière de l'Union européenne</evenement>
+    <img src="/04-avril/_01.jpg"/>
+    <date_jour>06/04/2011</date_jour>
+    <texte>Le Premier ministre, José Socrates, annonce que son pays va « recourir aux mécanismes de financement disponibles dans le cadre européen », en raison de son importante dette publique et de ses difficultés à emprunter sur les marchés financiers. En contrepartie du sauvetage financier, estimé à 80 milliards d'euros, le Portugal devra se soumettre à une politique d'austérité sans précédent dictée par Bruxelles.</texte>
+    <liens></liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Entretien avec Jean-Claude Juncker sur F24, qui revient sur la crise économique portugaise</desc_contenu_f24>
+    <video>http://flv2010.france24.com/TK015239-A-01-20110323.flv</video>
+  </theme>
+  <theme>
+    <id>22</id>
+    <mois>Avril 2011</mois>
+    <theme_titre>JAPON</theme_titre>
+    <evenement>L'accident de Fukushima est classé au niveau maximum de gravité</evenement>
+    <img src="/04-avril/_01.jpg"/>
+    <date_jour>12/04/2011</date_jour>
+    <texte>Un mois après le séisme qui a endommagé la centrale de Fukushima, l'agence japonaise de sûreté nucléaire réévalue la gravité de l'accident au niveau 7 (maximum), soit le rang assigné à la catastrophe de Tchernobyl en 1986. Le rayon d'évacuation de 20 km mis en place autour de la centrale nucléaire accidentée de Fukushima est classé "zone interdite".</texte>
+    <liens></liens>
+    <desc_media>Reportage exclusif au coeur de la zone rouge de Fukushima. Par Guillaume BRESSION / Marie LINTON</desc_media>
+    <liens_media></liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/MG036084-A-01-20110421.flv</video>
+  </theme>
+  <theme>
+    <id>23</id>
+    <mois>Avril 2011</mois>
+    <theme_titre>NIGERIA</theme_titre>
+    <evenement>Violents affrontements après la réélection de Goodluck Jonathan</evenement>
+    <img src="/04-avril/05_04.jpg"/>
+    <date_jour>16/04/2011</date_jour>
+    <texte>L'annonce de la réélection du président sortant, Jonathan Goodluck, avec 57% des voix contre 37% à son rival Muhammadu Buhari, provoque des violences dans 14 des 36 Etats du pays et font près de 800 morts. Le 29 mai, il est investi président nigérian à Abuja et prête serment. Il évoque dans son allocution le changement à venir en matière de cohésion sociale et de respect des valeurs religieuses.</texte>
+    <liens></liens>
+    <desc_media>L'ancien président ghanéen, John Kufuor, chef de la mission des observateurs de l'Union africaine, témoigne du déroulement du scrutin </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201104/53_-_Nigeria_son_JOHN_KUFUOR.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/04/WB_FR_NW_PKG_v2_MAROC_22h_NW303761-A-01-20110428.flv</video>
+  </theme>
+  <theme>
+    <id>24</id>
+    <mois>Avril 2011</mois>
+    <theme_titre>MAROC</theme_titre>
+    <evenement>Attentat meurtrier en plein cœur de Marrakech</evenement>
+    <img src="/04-avril/_04.jpg"/>
+    <date_jour>28/04/2011</date_jour>
+    <texte>Situé sur la place Jamâa el-Fna, cœur de la principale ville touristique du pays, le café Argana est soufflé par l'explosion d'une puissante bombe artisanale commandée à distance. L'attentat tue 16 personnes : trois Marocains, huit Français, un Britannique, un Canadien, un Hollandais, un Portugais et un Suisse. ll fait également 21 blessés. L'attentat n'est pas revendiqué mais le réseau Aqmi (Al Qaïda au Maghreb islamique) est soupçonné.</texte>
+    <liens></liens>
+    <desc_media>Reportage à Marrakech, la consternation des habitants</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201104/51_-_MAROC_ok_Enrobe_reac_attentats_de_marrakech.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Déclaration de Khalid Naciri, porte-parole du gouvernement marocain</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/04/WB_FR_NW_GRAB_PORTE_PAROLE_MAROCAIN_16H_NW304059-A-01-20110428.flv</video>
+  </theme>
+  <theme>
+    <id>25</id>
+    <mois>Avril 2011</mois>
+    <theme_titre>ROYAUME-UNI</theme_titre>
+    <evenement>Mariage de Kate Middelton et du prince William</evenement>
+    <img src="/04-avril/07_01.jpg"/>
+    <date_jour>29/04/2011</date_jour>
+    <texte>Le prince William 28 ans, 2e dans l'ordre de la succession au trône, épouse Kate Middleton, 29 ans, à l'Abbaye royale de Westminster à Londres. "Le mariage du siècle" est suivi à la télévision par deux milliards de personnes. </texte>
+    <liens></liens>
+    <desc_media>Kate et William échangent leur consentement</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201104/Son_echange_voeux.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  
+  <!---------------------------------------------------------MAI--[26]---------------------------------------------------------------------------------->
+  
+  <theme>
+    <id>26</id>
+    <mois>Mai 2011</mois>
+    <theme_titre>PAKISTAN</theme_titre>
+    <evenement>Ben Laden abattu par les forces américaines</evenement>
+    <img src="/05-mai/_05.jpg"/>
+    <date_jour>02/05/2011</date_jour>
+    <texte>Le chef d'al-Qaïda est tué dans un raid héliporté, mené par un commando des forces spéciales américaines, les Navy Seals. Oussama Ben Laden se cachait à Abbotabad, au nord d'Islamabad, dans une résidence située près d'une académie militaire.</texte>
+    <liens></liens>
+    <desc_media>Edition spéciale sur RFI</desc_media>
+    <liens_media>Edition_speciale_7h30-8h_TU.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/MG036268-A-01-20110503.flv</video>
+  </theme>
+  <theme>
+    <id>27</id>
+    <mois>Mai 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Ouverture du procès en appel de l'affaire Clearstream</evenement>
+    <img src="/05-mai/_05.jpg"/>
+    <date_jour>02/05/2011</date_jour>
+    <texte>Lundi 2 mai, s'ouvre à Paris le procès en appel dans ce dossier de faux listings bancaires et faux comptes occultes, mêlant détournements présumés de fonds et règlements de comptes politiques principalement entre Dominique de Villepin et Nicolas Sarkozy au milieu des années 2000. L'ancien Premier ministre, relaxé fin janvier 2010 en première instance correctionnelle, le sera finalement une nouvelle fois en appel le 14 septembre.</texte>
+    <liens></liens>
+    <desc_media>Déclaration de Dominique de Villepin après sa relaxe.</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201109/CLEARSTRAM_Son_Villepin_ok_10.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Entretien avec Denis Robert, journaliste, auteur de "Tout Clearstream"</desc_contenu_f24>
+    <video>http://flv2010.france24.com/TK015685-A-01-20110504.flv</video>
+  </theme>
+  <theme>
+    <id>28</id>
+    <mois>Mai 2011</mois>
+    <theme_titre>TERRITOIRES PALESTINIENS</theme_titre>
+    <evenement>Le Fatah et le Hamas scellent leur réconciliation</evenement>
+    <img src="/05-mai/_05.jpg"/>
+    <date_jour>04/05/2011</date_jour>
+    <texte>Le président palestinien, Mahmoud Abbas, à la tête du Fatah et le chef du bureau politique du Hamas, Khaled Mechaal, formalisent au Caire l'accord de réconciliation entre les deux factions palestiniennes. Cet accord doit permettre la mise en place d'un gouvernement d'union et la tenue d'élections législatives et présidentielle dans les deux territoires, Cisjordanie et Gaza, dans un délai d'un an. </texte>
+    <liens></liens>
+    <desc_media>Reportage à Gaza - les réactions de la rue à l'accord de réconciliation</desc_media>
+    <liens_media>16_GAZA_Enro_reactions_reconciliation_FV_1_04.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Entretien avec Khaled Mechaal, chef du bureau politique du Hamas</desc_contenu_f24>
+    <video>http://flv2010.france24.com/TK015714-A-01-20110506.flv</video>
+  </theme>
+  <theme>
+    <id>29</id>
+    <mois>Mai 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>DSK, accusé d'agression sexuelle, est arrêté à New York</evenement>
+    <img src="/05-mai/_05.jpg"/>
+    <date_jour>14/05/2011</date_jour>
+    <texte>Dominique Strauss-Kahn, président du FMI est arrêté par la police new-yorkaise et inculpé d'agression sexuelle, tentative de viol et séquestration sur la personne de Nafissatou Diallo, femme de chambre de l'hötel Sofitel. Le 19, il démissionne du FMI. Le 20, il est libéré sous caution et assigné à résidence dans le quartier de Tribeca. Le 6 juin, il plaide non coupable au tribunal de Manhattan.</texte>
+    <liens></liens>
+    <desc_media>Dominique Strauss-Kahn reconnaît une "faute morale"</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201109/FRA_SON_DSK_FAUTE_MORALE.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Nafissatou Diallo : "Je veux que Dominique Strauss-Kahn aille en prison" </desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/07/WB_FR_NW_SOT_NAFISSATOU_DIALLO_LES_3_SOT_17H_NW409832-A-01-20110725.flv</video>
+  </theme>
+  <theme>
+    <id>30</id>
+    <mois>Mai 2011</mois>
+    <theme_titre>ESPAGNE</theme_titre>
+    <evenement>Les Indignés espagnols investissent la Puerta del Sol</evenement>
+    <img src="/05-mai/05_05.jpg"/>
+    <date_jour>15/05/2011</date_jour>
+    <texte>Le mouvement de contestation des "indignados", lancé par la jeunesse madrilène à la Puerta del Sol et qui secoue l'Espagne, va peu à peu s'étendre à d'autres pays européens. Ce mouvement contre le chômage (21,19% en Espagne, le plus élevé de la zone euro), les politiques d'austérité et qui rejette l'ensemble des partis politiques, se généralise très vite à l'ensemble du pays, via les réseaux sociaux Twitter et Facebook.</texte>
+    <liens></liens>
+    <desc_media>Grand Reportage : Les Indignés : révolution ou utopie politique à Madrid ? par Béatrice Leveillé</desc_media>
+    <liens_media>grand_reportage_20110531_1210.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage : Une journée avec les "indignés" place Puerta del Sol à Madrid </desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>31</id>
+    <mois>Mai 2011</mois>
+    <theme_titre>CÔTE D'IVOIRE</theme_titre>
+    <evenement>Alassane Ouattara officiellement investi président </evenement>
+    <img src="/05-mai/_05.jpg"/>
+    <date_jour>21/05/2011</date_jour>
+    <texte>Après 5 mois de crise post-électorale, Alassane Ouattara est investi le 21 mai à Yamoussokro en présence du président Nicolas Sarkozy et de Ban Ki-moon, secrétaire général de l'ONU.</texte>
+    <liens></liens>
+    <desc_media>Extrait du discours d'investiture d'Alassane Ouattara</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201105/CIV_Son_OUATTARA_16h_Debut_discours.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Entretien avec Alassane Ouattara, président de la République de Côte d'Ivoire </desc_contenu_f24>
+    <video>http://flv2010.france24.com/TK015838-A-01-20110519.flv</video>
+  </theme>
+  <theme>
+    <id>32</id>
+    <mois>Mai 2011</mois>
+    <theme_titre>SERBIE</theme_titre>
+    <evenement>Arrestation de Ratko Mladic après une cavale de seize ans</evenement>
+    <img src="/05-mai/_05.jpg"/>
+    <date_jour>26/05/2011</date_jour>
+    <texte>Ratko Mladic est arrêté par les forces de l'ordre serbes dans le village de Lazarevo, au nord est de Belgrade. La justice serbe le déclare apte à être transféré au Tribunal pénal international pour l'ex-Yougoslavie de La Haye. Il devra y répondre notamment du crime de génocide pour le massacre d'environ 8 000 hommes et jeunes garçons à Srebrenica en 1995 et de crimes contre l'humanité pour son rôle présumé dans la guerre en Bosnie. </texte>
+    <liens></liens>
+    <desc_media>Un témoin de Srebrenica raconte</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201105/BOSNIE_Son_Temoin_Srebrenica.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage : Serbie : Ratko Mladic, ce héros ? </desc_contenu_f24>
+    <video>http://flv2010.france24.com/MG036934-A-01-20110610.flv</video>
+  </theme>
+  
+  <!---------------------------------------------------------JUIN--[33]---------------------------------------------------------------------------------->
+  
+  <theme>
+    <id>33</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>YÉMEN</theme_titre>
+    <evenement>Ali Abdallah Saleh blessé dans l'attaque du palais présidentiel</evenement>
+    <img src="/06-juin/01_06.jpg"/>
+    <date_jour>03/06/2011</date_jour>
+    <texte>Le palais présidentiel a été bombardé à Sanaa. Blessé par des tirs d'obus, le président Saleh se rend en Arabie Saoudite à bord d'un avion médical pour se faire soigner.</texte>
+    <liens></liens>
+    <desc_media>Au lendemain de l'attentat, Ali Abdallah Saleh s'adresse à la population dans un message diffusé à la télévision d'Etat </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201106/Yemen_SON_Abdallah_Saleh_diffue_a_TV_publique_23h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>34</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>PÉROU</theme_titre>
+    <evenement>Ollanta Humala élu président</evenement>
+    <img src="/06-juin/_01.jpg"/>
+    <date_jour>05/06/2011</date_jour>
+    <texte>Ollanta Humala, candidat de la gauche nationaliste, remporte l'élection avec 51,5% des suffrages contre 48,5% pour sa rivale, Keiko Fujimori. Humala, indien quechua comme la majorité des Péruviens, a le soutien des classes pauvres et moyennes mais suscite la crainte des milieux financiers. Il promet de s'inspirer davantage du Brésilien Lula da Silva que du Vénézuélien Hugo Chavez. </texte>
+    <liens></liens>
+    <desc_media>Déclaration d'Ollanta Humala après sa victoire à la présidentielle</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201106/PEROU_-_Son_humala_victoire_traduit.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Avec Ollanta Humala, le Pérou opère un virage à gauche</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/06/WB_FR_NW_PKG_PEROU_ELEX_UPDATE_3H_NW350601-A-01-20110606.flv</video>
+  </theme>
+  <theme>
+    <id>35</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>BRESIL</theme_titre>
+    <evenement>Libération de l'ancien activiste d'extreme gauche italien Cesare Battisti</evenement>
+    <img src="/06-juin/_01.jpg"/>
+    <date_jour>08/06/2011</date_jour>
+    <texte>Après 4 ans d'emprisonnement au Brésil, Cesare Battisti est libre et la Cour suprême brésilienne refuse son extradition vers l'Italie. Il y avait été condamné à la perpétuité en 1993 pour quatre meurtres commis dans les années 70. L'Italie accuse Brasilia de ne pas avoir respecté les accords internationaux et décide de saisir la Cour internationale de Justice (CIJ), de la Haye, pour faire réviser cette décision. </texte>
+    <liens></liens>
+    <desc_media>Reportage devant la Cour Suprême brésilienne</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201106/24_BATTISTI_Enro_Cardonna.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/06/WB_FR_NW_PKG_FUITE_BATTISTI_V2_7H_NW354881-A-01-20110609.flv</video>
+  </theme>
+  <theme>
+    <id>36</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>MAROC</theme_titre>
+    <evenement>Le roi Mohammed VI annonce une réforme de la Constitution</evenement>
+    <img src="/06-juin/_01.jpg"/>
+    <date_jour>17/06/2011</date_jour>
+    <texte>Le roi Mohammed VI présente, dans un discours à la nation, un projet de réformes constitutionnelles. Celles-ci renforcent le Premier ministre et le Parlement tout en maintenant le statut religieux du monarque et son rôle de chef de l'Etat, de l'armée et de la diplomatie. Le projet vise, selon Mohammed VI, à « consolider les piliers d'une monarchie constitutionnelle, démocratique, parlementaire et sociale », et sera soumis à référendum.</texte>
+    <liens></liens>
+    <desc_media>Extrait du discours de Mohammed VI</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201106/52_-_MAROC_Son_M6_independance_de_la_justice.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Réactions de Marocains au discours de Mohammed VI. Reportage de Jean-Marie Lemaire</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/06/WB_FR_NW_PKG_AV_PAPIER__MANIFS_MAROC_3H_NW365421-A-01-20110618.flv</video>
+  </theme>
+  <theme>
+    <id>37</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>TUNISIE</theme_titre>
+    <evenement>Ben Ali et son épouse sont condamnés par contumace à 35 ans de prison</evenement>
+    <img src="/06-juin/05_06.jpg"/>
+    <date_jour>20/06/2011</date_jour>
+    <texte>L'ex-président tunisien Ben Ali et sa femme Leïla Trabelsi sont condamnés à 35 ans de prison chacun. Ils étaient poursuivis tous deux pour malversations et détournement de fonds publics. Une condamnation par contumace puisque les époux n'étaient pas présents à Tunis, réfugiés depuis le 14 janvier 2011 en Arabie Saoudite.</texte>
+    <liens></liens>
+    <desc_media>Réaction de Jean-Yves Le Borgne, avocat de Zine el-Abidine Ben Ali</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201106/56_-_TUNISIE_-_Son_Le_Borgne_Ben_Ali_-.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>38</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>AFGHANISTAN</theme_titre>
+    <evenement>Plan de retrait des troupes américaines</evenement>
+    <img src="/06-juin/_01.jpg"/>
+    <date_jour>22/06/2011</date_jour>
+    <texte>Lors d'une allocution télévisée, le Président Barack Obama annonce le rapatriement d'ici à l'été 2012 des 33 000 soldats envoyés en janvier 2010 en Afghanistan en renforts. Il ordonne le rapatriement, dès 2011, de 10 000 soldats avant le retrait de 23 000 hommes supplémentaires à l'été 2012. </texte>
+    <liens></liens>
+    <desc_media>Déclaration de Barack Obama</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201106/USA_Son_Obama_Afghanistan_Focus_on_America.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Barack Obama annonce le retrait de 33 000 soldats américains d'ici à l'été 2012 </desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/06/WB_FR_NW_PKG_OBAMA_AFGHANISTAN_V2_7H_NW371730-A-01-20110623.flv</video>
+  </theme>
+  <theme>
+    <id>39</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Yvan Colonna condamné à la perpétuité</evenement>
+    <img src="/06-juin/07_06.jpg"/>
+    <date_jour>21/06/2011</date_jour>
+    <texte>Verdict dans le procès d'Yvan Collona, qui est condamné par la cour d'assises spéciale de Paris à la réclusion à perpétuité pour le meurtre, le 6 février 1998, du préfet Claude Erignac à Ajaccio. C'était le troisième procès pour Yvan Colonna.</texte>
+    <liens></liens>
+    <desc_media>Réaction de l'avocat d'Yvan Colonna</desc_media>
+    <liens_media>FRA_-_COLONNA_SON_SOLLACARO.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>40</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>Légalisation du mariage homosexuel dans l'État de New York</evenement>
+    <img src="/06-juin/_01.jpg"/>
+    <date_jour>25/06/2011</date_jour>
+    <texte>L'État de New York devient le sixième État américain à reconnaître l'union entre personnes de même sexe. Une décision célébrée par des milliers de New-Yorkais.</texte>
+    <liens>http://www.france24.com/fr/20110610-carte-interactive-homosexualite-gay-mariage-union-civile</liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>L'État de New York approuve le mariage homosexuel </desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/06/WB_FR_NW_SOT_VOX_POPS_MARIAGE_GAY_NY_06H_NW374238-A-01-20110625.flv</video>
+  </theme>
+  <theme>
+    <id>41</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>Christine Lagarde remplace DSK à la présidence du FMI</evenement>
+    <img src="/06-juin/_01.jpg"/>
+    <date_jour>28/06/2011</date_jour>
+    <texte>La ministre française de l'Économie devient la nouvelle patronne du FMI. Christine Lagarde, candidate du Vieux Continent, succède à Dominique Strauss-Kahn grâce aux soutiens de la Chine, de la Russie, du Brésil et des États-Unis.</texte>
+    <liens></liens>
+    <desc_media>Les grands chantiers de la nouvelle patronne du FMI</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201106/AFR_ECO-2_-30_06-_DOSSIER_-_FMI_Lagarde_Afrique.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Son parcours</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/06/WB_FR_NW_PKG_PORTRAIT_LAGARDE_NW376102-A-01-20110627.flv</video>
+  </theme>
+  <theme>
+    <id>42</id>
+    <mois>Juin 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Libération des deux otages, Hervé Ghesquière et Stéphane Taponie</evenement>
+    <img src="/06-juin/_01.jpg"/>
+    <date_jour>29/06/2011</date_jour>
+    <texte>Hervé Ghesquière et Stéphane Taponier, enlevés le 30 décembre 2009 en Afghanistan sont libérés, ainsi que leur interprète Reza Din. Ils avaient été enlevés à 60 kilomètres de Kaboul, dans la province de Kapisa. Durant leur détention, ils ont pu écouter RFI et recevoir ainsi des messages de leurs proches.</texte>
+    <liens></liens>
+    <desc_media>Hervé Ghesquière et Stéphane Taponier, à leur retour en France, invités de RFI</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/herve_ghesquiere_stephane_taponier_invite_matin_8h13_20110701.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Déclarations sur le tarmac de Villacoublay et conférence de presse au siège de France Télévisions</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/06/WB_FR_NW_PKG_ARRIVEE_OTAGES_NW380233-A-01-20110630.flv</video>
+  </theme>
+  
+  <!---------------------------------------------------------JUILLET  [43]------------------------------------------------------------------------------------> 
+  
+  <!--	   <theme><id>00</id><mois>Juillet 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>L'écrivaine Tristane Banon porte plainte contre DSK pour tentative de viol </evenement>
+    <img src="/07-juillet/_01.jpg"/>
+    <date_jour>05/07/2011</date_jour>
+    <texte>Le parquet de Paris ouvre une enquête préliminaire après la plainte pour tentative de viol déposée Tristane Banon contre Dominique Strauss-Kahn. La plainte est classée sans suite par le parquet de Paris le 13 octobre. Les magistrats ont estimé qu'il avait pu y avoir agression sexuelle mais ont jugé que les faits étaient trop anciens pour déboucher sur une condamnation de Dominique Strauss-Kahn.</texte>
+    <liens>http://www.rfi.fr/france/20110708-une-enquete-ouverte-plainte-tristane-banon-contre-dsk</liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+
+-->
+  <theme>
+    <id>43</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>ROYAUME-UNI</theme_titre>
+    <evenement>"News of the World" ferme à la suite du scandale des écoutes téléphoniques</evenement>
+    <img src="/07-juillet/_01.jpg"/>
+    <date_jour>07/07/2011</date_jour>
+    <texte>Créé en 1843, le tabloïd britannique "New of the World" est accusé d'avoir mis sur écoute des téléphones portables de victimes dans des affaires judiciaires. Le magnat australo-américain Rupert Murdoch décide de fermer l'hebdomadaire, fleuron du groupe News Corp tiré à près de 2,8 millions d'exemplaires. Pour sa dernière édition, le journal à sensation titre "Adieu et merci"</texte>
+    <liens></liens>
+    <desc_media>«News of the World» empêtré dans un vaste scandale à rebondissements</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/BONJOUR_L_EUROPE_07_07_2011.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/07/WB_FR_NW_PKG_UPDATE_NOTW_04H_NW392458-A-01-20110710.flv</video>
+  </theme>
+  <theme>
+    <id>44</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>SENEGAL</theme_titre>
+    <evenement>Robert Bourgi, affirme que Karim Wade a demandé l'aide de la France</evenement>
+    <img src="/07-juillet/_01.jpg"/>
+    <date_jour>11/07/2011</date_jour>
+    <texte>L'avocat franco-libanais Robert Bourgi, conseiller officieux de Nicolas Sarkozy, confirme les informations de l'Express et la Lettre du Continent selon lesquelles Karim Wade l'aurait appelé la nuit du 27 juin, nuit des émeutes de l'électricité qui ont soulevé Dakar et sa banlieue, pour lui demander une intervention militaire de la France. </texte>
+    <liens></liens>
+    <desc_media>Robert Bourgi rapporte sa conversation avec Karim Wade au micro de Radio Futur Média </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/SENEGAL_-_Son_R_Bourgi_sur_Radio_Futur_Media_a_Dakar.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>45</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>SOMALIE</theme_titre>
+    <evenement>L'état de famine est décrété dans la Corne de l'Afrique</evenement>
+    <img src="/07-juillet/04_07.jpg"/>
+    <date_jour>19/07/2011</date_jour>
+    <texte>Après avoir lancé un appel aux dons pour éviter une tragédie humaine dans l'ensemble de la Corne de l'Afrique, l'ONU décrète, « l'état de famine » dans le sud de la Somalie. Les régions de Bakool et Lower Shabelle sont les plus touchées. Et la crise pourrait s'étendre à toute la région si l'aide internationale n'est pas à la hauteur des besoins.</texte>
+    <liens></liens>
+    <desc_media>Elise Ford, coordinatrice d'Oxfam, pour la Corne de l'Afrique par Boniface Vignon</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/Corne_de_l_Afr_Son_Elise_Ford_OXFAM_Soir.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>46</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>CHILI</theme_titre>
+    <evenement>Une autopsie du corps de Salvador Allende confirme son suicide</evenement>
+    <img src="/07-juillet/05_07.jpg"/>
+    <date_jour>19/07/2011</date_jour>
+    <texte>L'exhumation et l'examen du corps permet d'écarter la théorie selon laquelle l'ancien président chilien aurait été tué par les militaires au moment de l'assaut contre le palais de la Moneda lors du coup d'Etat militaire du 11 septembre 1973.</texte>
+    <liens></liens>
+    <desc_media>Chili : exhumation du corps de Salvador Allende</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201105/Rep_Inter_24_05_Exhumation_Allende_OK.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>47</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>GUINÉE</theme_titre>
+    <evenement>Tentative d'assassinat du président Alpha Condé </evenement>
+    <img src="/07-juillet/06_01.jpg"/>
+    <date_jour>19/07/2011</date_jour>
+    <texte>La résidence du président guinéen, Alpha Condé, est la cible de tirs à l'arme lourde et à la roquette. Dans un entretien exclusif à RFI, Alpha Condé explique qu'il a échappé à cette attaque car il n'a pas couché dans sa chambre habituelle. Pour lui, « ce n'était pas un coup d'État mais une tentative d'assassinat.</texte>
+    <liens></liens>
+    <desc_media>Entretien exclusif avec le président Alpha Condé</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/INV_AFR_LONG_20_07_Alpha_CONDE.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>48</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>SERBIE</theme_titre>
+    <evenement>Le criminel de guerre présumé Goran Hadzic arrêté</evenement>
+    <img src="/07-juillet/_01.jpg"/>
+    <date_jour>20/07/2011</date_jour>
+    <texte>Goran Hadzic était le dernier criminel de guerre recherché par le Tribunal pénal international pour l'ex-Yougoslavie (TPIY). Une arrestation qui intervient près de deux mois après celle d'un autre criminel de guerre recherché par le TPIY, Ratko Mladic, ancien chef militaire des Serbes de Bosnie.</texte>
+    <liens></liens>
+    <desc_media>Boris Tadic, président serbe par Grégoire Lory </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/trad_tradic_16h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>49</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>GRÈCE</theme_titre>
+    <evenement>Les Européens adoptent un vaste plan d'aide à la Grèce </evenement>
+    <img src="/07-juillet/08_07.jpg"/>
+    <date_jour>21/07/2011</date_jour>
+    <texte>Les dirigeants de la zone euro parviennent à un accord sur un second plan d'aide à la Grèce d'un montant total de 158 milliards d'euros, qui sera réparti de la façon suivante : 109 milliards d'euros de prêts venant de l'Europe et du Fonds monétaire international, le reste, 49,6 milliards d'euros, provenant d'une contribution du secteur privé créancier de la Grèce.</texte>
+    <liens></liens>
+    <desc_media>Déclaration de Nicolas Sarkozy : « nous le faisons pour la Grèce, nous ne le ferons pas pour d'autres pays » </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/ZONE_EURO_son_SARKOZY_on_ne_le_fera_plus.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20110721-sarkozy-contribution-135-milliards-banques-plan-dette-grece-zone-euro-defaut-paiement</contenu_f24>
+    <desc_contenu_f24>La zone euro s'accorde sur une aide de 158 milliards d'euros à la Grèce </desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>50</id>
+    <mois>Juillet 2011</mois>
+    <theme_titre>NORVÈGE</theme_titre>
+    <evenement>77 personnes tuées dans deux attaques simultanées</evenement>
+    <img src="/07-juillet/_01.jpg"/>
+    <date_jour>22/07/2011</date_jour>
+    <texte>Un attentat à la bombe perpétré vendredi à Oslo et une fusillade sur l'île voisine d'Utoya ont fait au moins 92 morts. Un homme de 32 ans, considéré par la police comme un "fondamentaliste chrétien", a été inculpé pour les deux attaques. </texte>
+    <liens></liens>
+    <desc_media>L'incompréhension du père d'Anders Breivik, l'auteur de la fusillade</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201107/17_Oslo_Enro_pere_7h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Portrait d'Anders Breivik, décrit par la police comme un "fondamentaliste chrétien" </desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/07/WB_FR_NW_PKG_PORTRAIT_TUEUR_NORVEGE_8H_NW409189-A-01-20110724.flv</video>
+  </theme>
+  
+  <!---------------------------------------------------------AOUT------------------------------------------------------------------------------------>
+  
+  <theme>
+    <id>51</id>
+    <mois>aout 2011</mois>
+    <theme_titre>ISRAËL</theme_titre>
+    <evenement>Un demi-million d'Israéliens manifestent pour demander la "justice sociale" </evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>01/08/2011</date_jour>
+    <texte>Des dizaines de milliers de personnes ont défilé en revendiquant plus de "justice sociale". Des contestataires israéliens campent dans des tentes à Tel-Aviv et Jérusalem. Israël fait face aux plus importantes manifestations de son histoire. </texte>
+    <liens></liens>
+    <desc_media>Isaac, manifestant israélien rencontré à Tel-Aviv </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201109/ISRAEL_MANIF_son_Isaac_manifestant_22h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage de F24</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/08/WB_FR_NW_PKG_FR24_ISRAEL_INDIGNES_WILLY_04H_NW434451-A-01-20110813.flv</video>
+  </theme>
+  <theme>
+    <id>52</id>
+    <mois>aout 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>Promulgation de la loi sur le relèvement du plafond de la dette</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>02/08/2011</date_jour>
+    <texte>Après des semaines de débats difficiles, les démocrates et les républicains sont parvenus à un accord pour relever de 2 100 milliards de dollars, le plafond de la dette qui avait atteint le maximum légal de 14 294 milliards de dollars.</texte>
+    <liens></liens>
+    <desc_media>Déclaration de Barack Obama</desc_media>
+    <liens_media>18-_SON_Discours_OBAMA_4h00.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Obama et le Congrès trouvent un accord in extremis sur la dette </desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/08/WB_FR_NW_PKG_UPGATE_DETTE_US_SORTIE_DE_CRISE_NW419909-A-01-20110801.flv</video>
+  </theme>
+  <theme>
+    <id>53</id>
+    <mois>aout 2011</mois>
+    <theme_titre>SYRIE</theme_titre>
+    <evenement>Le Conseil de sécurité de l'ONU condamne la répression en Syrie</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>03/08/2011</date_jour>
+    <texte> Pour la première fois depuis le début du soulèvement en Syrie en mars, le Conseil de sécurité de l'ONU a condamné la répression des manifestations par le régime de Damas. La déclaration "condamne les violations généralisées des droits de l'homme et l'usage de la force contre les civils par les autorités syriennes" qui auraient déjà fait près de 1.600 morts. Le Liban, voisin, s'est désolidarisé de la déclaration.</texte>
+    <liens></liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/08/WB_FR_NW_PKG_SYRIE_ONU_DECLARATION_00H_NW421673-A-01-20110803.flv</video>
+  </theme>
+  <theme>
+    <id>54</id>
+    <mois>aout 2011</mois>
+    <theme_titre>EGYPTE</theme_titre>
+    <evenement>L'ancien président égyptien comparait sur une civière</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>03/08/2011</date_jour>
+    <texte>L'ancien président Hosni Moubarak comparait pour meurtre de manifestants et corruption pendant le soulèvement populaire de février. Le procès se tient pour des raisons de sécurité, sous haute surveillance dans une école de police située en banlieue du Caire. L'ex-raïs, est en détention à l'hôpital de Charm el-Cheikh.</texte>
+    <liens></liens>
+    <desc_media>Reportage au Caire. Les Égyptiens attendent le procès de Hosni Moubarak </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201108/09_EGYPTE_enro_attentes_proces_Moubarak_5h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>55</id>
+    <mois>aout 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>Standard & Poors dégrade la note  américaine</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>06/08/2011</date_jour>
+    <texte>L'agence Standard & Poor's abaisse la prestigieuse note "AAA" de la dette souveraine des Etats-Unis à "AA+". Tout en reconnaissant que la question des déficits publics est cruciale, le président Barack Obama fustige les agences de notation et assure qu'il fera des propositions pour y répondre.</texte>
+    <liens></liens>
+    <desc_media>Déclaration de Barack Obama</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201108/ECO_SON_crise_financiere_Obama_21h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/08/WB_FR_NW_PKG_DETTE_CONSEQUENCE_DOWNGRADE_ECO_7H_NW428423-A-01-20110808.flv</video>
+  </theme>
+  <theme>
+    <id>56</id>
+    <mois>aout 2011</mois>
+    <theme_titre>ROYAUME-UNI</theme_titre>
+    <evenement>Émeutes à Londres après la mort d'un jeune tué par la police</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>07/08/2011</date_jour>
+    <texte>Des incidents ont éclaté dans plusieurs quartiers de Londres, où des jeunes affrontent les forces de police. En quatre jours, les violences se sont propagées dans d'autres villes du pays. Bilan : cinq morts et plusieurs millions d'euros de dégâts. </texte>
+    <liens></liens>
+    <desc_media>David Cameron promet à la police tous les moyens dont elle aura besoin </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201108/GB_PAP_mesures_policieres_emeutes_18H.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>La police sous le vent des critiques</desc_contenu_f24>
+    <video>http://flv2010.france24.com/2011/08/WB_FR_NW_PKG_FR_3_REACTION_LONDON_21H_NW428899-A-01-20110809.flv</video>
+  </theme>
+  <theme>
+    <id>57</id>
+    <mois>aout 2011</mois>
+    <theme_titre>LIBYE</theme_titre>
+    <evenement>Tripoli tombe aux mains des insurgés</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>23/08/2011</date_jour>
+    <texte> L'opération "Aube de la sirène" menée par les insurgés libyens s'est soldée par la prise de Tripoli en sept jours. Dès le troisième jour, les rebelles prennent le contrôle du quartier général de Kadhafi à Bab al-Azizia, qui sera totalement pillé. </texte>
+    <liens></liens>
+    <desc_media>Témoignage d'un habitant de Tripoli : "On fait la fête!"</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201108/54bis_LYBIE_SON1_temoignage_habitant.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Nos envoyés spéciaux ont suivi les opposants libyens dans leur assaut contre le quartier de Bab al-Aziziya, bastion des derniers fidèles au colonel Kadhafi à Tripoli. </desc_contenu_f24>
+    <video>http://medias.france24.com/2011/08/WB_WB_FR_ASSAUT_BUNKER_14H_F24_NW447136-A-01-20110824.flv</video>
+  </theme>
+  <theme>
+    <id>58</id>
+    <mois>aout 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>Abandon des charges contre DSK</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>23/08/2011</date_jour>
+    <texte>Suivant les recommandations du procureur Cyrus Vance, le juge américain Michael Obus annonce l'abandon des charges pénales qui pèsent contre Dominique Strauss-Kahn dans l'affaire l'opposant à Nafissatou Diallo. La décision du juge met fin à trois mois d'une rocambolesque saga judiciaire. L'ancien patron du FMI reste poursuivi au civil. </texte>
+    <liens></liens>
+    <desc_media>En Guinée, d'où est originaire Nafissatou Diallo, réactions dans les rues de Conakry.</desc_media>
+    <liens_media>69_-_CONAKRY_micro_trott_DSK_NAFISSATOU.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Entretien avec Thibault de Montbrial, avocat français de Nafissatou Diallo </desc_contenu_f24>
+    <video>http://medias.france24.com/TK016679-A-01-20110822.flv</video>
+  </theme>
+  <theme>
+    <id>59</id>
+    <mois>aout 2011</mois>
+    <theme_titre>NIGERIA</theme_titre>
+    <evenement>Attentat contre le siège de l'ONU à Abuja</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>26/08/2011</date_jour>
+    <texte>Un attentat-suicide frappe le bureau de la représentation des Nations unies à Abuja, au Nigeria. Le kamikaze, qui a lancé sa voiture contre l'entrée de l'immeuble, est mort dans l'explosion. La secte Boko Haram est soupçonnée d'être responsable de l'attentat. La police nigérienne recherche le cerveau présumé de l'attaque. L'homme aurait des liens avec Al-Qaïda au Maghreb islamique.</texte>
+    <liens></liens>
+    <desc_media>Témoignage de Kori Habib qui se trouvait au 4ème étage du bâtiment </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201108/NIGERIA_SON_temoin_femme_Daniel_Finnan.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  <theme>
+    <id>60</id>
+    <mois>aout 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>L'ouragan Irène frappe les côtes américaines</evenement>
+    <img src="/08-aout/_08.jpg"/>
+    <date_jour>29/08/2011</date_jour>
+    <texte>La tempête tropicale Irène, qui a balayé la côte Est des Etats-Unis, a coûté la vie à 14 personnes dans le pays. Les dégâts provoqués sont estimés à 7 milliards de dollars. </texte>
+    <liens></liens>
+    <desc_media>Témoignage d'un New Yorkais : "Je pense que les télés et les radios ont exagéré l'ampleur de la tempête "</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201108/NY_Son_Daniel_Brooklyn_1h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage de nos envoyés spéciaux</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/08/WB_FR_NW_GRAB_GALOIS_18H_NW450869-A-01-20110827.flv</video>
+  </theme>
+  
+  
+  
+  
+    <!---------------------------------------------------------SEPTEMBRE------------------------------------------------------------------------------------>
+
+  
+  
+  <theme>
+    <id>61</id>
+    <mois>septembre 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>Dixième anniversaire des attentats du 11-Septembre</evenement>
+    <img src="09-septembre/01_09.jpg"/>
+    <date_jour>11/09/2011</date_jour>
+    <texte>Emotion à New York dix ans après les attentats du 11 septembre 2001. La principale cérémonie de comémoration a eu lieu à "Ground Zero" à New York en présence de Barack Obama et de George W. Bush. </texte>
+    <liens></liens>
+<!--audio-->    <desc_media>Le 11-septembre 2011 : l'Amérique se souvient, les moments forts des commémorations.</desc_media>
+ <!--audio-->     <liens_media>USA_tout_sonore_Fil_journee_New-York_Ceremonie.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Au plus près du World Trade Center. Témoignage du photographe Klaus Reisinger, un des premiers photographes arrivé au pied du World Trade Center.</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/09/WB_FR_NW_PKG_WRAP_COMMEMORATION_9_11_NW468934-A-01-20110911.flv</video>
+  </theme>
+
+  
+  
+     <theme>
+    <id>62</id>
+    <mois>septembre 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Verdict du procès en appel de l'affaire Clearstream </evenement>
+    <img src="09-septembre/02_01.jpg"/>
+    <date_jour>14/09/2011</date_jour>
+    <texte>L'ancien Premier ministre, Dominique de Villepin, poursuivi dans l'affaire Clearstream pour « complicité de dénonciation calomnieuse », a été relaxé par la cour d'appel de Paris. Le parquet général avait requis quinze mois de prison avec sursis. Les deux autres accusés dans l'affaire ont été condamnés.</texte>
+    <liens></liens>
+    <desc_media>Réaction de Dominique de Villepin</desc_media>
+    <liens_media>CLEARSTRAM_Son_Villepin_ok_10.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+
+  
+  
+    
+    <theme>
+    <id>63</id>
+    <mois>septembre 2011</mois>
+    <theme_titre>ÉTATS-UNIS</theme_titre>
+    <evenement>Début du mouvement "Occupy Wall Street"</evenement>
+    <img src="/_01.jpg"/>
+    <date_jour>17/09/2011</date_jour>
+    <texte>Pour le premier rassemblement à New York, 1700 personnes sont mobilisées. Au cours des semaines suivantes, quelques centaines de manifestants campent dans le parc Zuccotti. Il faut attendre le rassemblement sur le Brooklyn Bridge le 2 octobre, au cours duquel 700 manifestants sont interpellés, pour que le mouvement soit pris au sérieux.</texte>
+    <liens></liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24>http://medias.france24.com/2011/10/WB_FR_MG_PKG_INDIGNES_WALL_STREET_NW495062-A-01-20111003.flv</contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+
+
+
+    <theme>
+    <id>64</id>
+    <mois>septembre 2011</mois>
+    <theme_titre>TERRITOIRES PALESTINIENS</theme_titre>
+    <evenement>Les Palestiniens déposent une demande d'adhésion à l'ONU</evenement>
+    <img src="/_01.jpg"/>
+    <date_jour>23/09/2011</date_jour>
+    <texte>Le 24 septembre 2011, le président Mahmoud Abbas demande officiellement à la tribune des Nations unies l'adhésion de l'État palestinien à l'ONU. La demande devrait se heurter au veto des États-Unis au Conseil de sécurité des Nations unies et aux pressions d'Israël.</texte>
+    <liens></liens>
+    <desc_media>Focus: La Palestine, 194e Etat ou pas ? </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201109/Focus_-_Une_semaine_decisive_pour_les_Palestiniens.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage en Cisjordanie</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/09/WB_FR_NW_PKG_WADI_KANA_PALESTINE_GALLAGHER_0909_20H_NW465934-A-01-20110909.flv</video>
+  </theme>
+
+
+
+   <theme>
+    <id>65</id>
+    <mois>septembre 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Victoire historique de la gauche aux élections sénatoriales</evenement>
+    <img src="09-septembre/05_01.jpg"/>
+    <date_jour>25/09/2011</date_jour>
+    <texte>La gauche française remporte une victoire historique en obtenant pour la première fois en plus de cinquante ans la majorité absolue au Sénat, sept mois avant l'élection présidentielle. Le sénateur PS de l'Ariège, Jean-Pierre Bel, est élu président de la Haute assemblée. Il a devancé le président sortant UMP, Gérard Larcher, et la centriste Valérie Létard, ancienne secrétaire d'Etat du gouvernement Fillon. </texte>
+    <liens></liens>
+    <desc_media>Jean-Pierre Bel, socialiste, nouveau président du Sénat </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201110/03_FRA_Senat_Son_JP_Bel_pas_d_obstruction_21h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+
+
+    
+  
+  
+  
+    <!---------------------------------------------------------OCTOBRE------------------------------------------------------------------------------------>
+
+  
+
+
+  <theme>
+    <id>66</id>
+    <mois>Octobre 2011</mois>
+    <theme_titre>FRANCE - BELGIQUE</theme_titre>
+    <evenement>Démantèlement de Dexia, victime de la crise de la dette</evenement>
+    <img src="/10-octobre/_01.jpg"/>
+    <date_jour>04/10/2011</date_jour>
+    <texte>Pour éviter la faillite, la banque belge Dexia annonce via un communiqué son prochain "démantèlement" entre une "bad bank" destinée à recueillir 80 milliards d'euros d'actifs toxiques, et des entités séparées. La Belgique annonce qu'un accord a été trouvé avec Dexia SA sur la nationalisation complète de Dexia Banque Belgique pour un montant total de 4 milliards d'euros. L'État belge assure en outre 60,5 % du financement de la "bad bank".</texte>
+    <liens></liens>
+    <desc_media>Portrait de Pierre Mariani, le patron de Dexia</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201110/-EDLS_MARIANI_DEXIA_9_10.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://medias.france24.com/2011/10/WB_FR_NW_PKG_DEXIA_ECO_9H_NW503840-A-01-20111010.flv</video>
+  </theme>
+
+
+
+
+  <theme>
+    <id>67</id>
+    <mois>Octobre 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>François Hollande désigné candidat du Parti socialiste pour la présidentielle</evenement>
+    <img src="/10-octobre/_01.jpg"/>
+    <date_jour>16/10/2011</date_jour>
+    <texte>Vainqueur avec plus de 56 % des voix au second tour de la primaire socialiste, François Hollande a savouré sa victoire au siège du parti en compagnie de Martine Aubry. Dans son discours, il a déclaré vouloir "réenchanter" le "rêve français". </texte>
+    <liens></liens>
+    <desc_media>Première réaction de François Hollande</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201110/HOLLANDE_Pastille_2.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Portrait de François Hollande</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/10/WB_FR_NW_PKG_INVESTITURE_HOLLANDE_20H_NW518061-A-01-20111022.flv</video>
+  </theme>
+
+
+
+
+  <theme>
+    <id>68</id>
+    <mois>Octobre 2011</mois>
+    <theme_titre>TERRITOIRES PALESTINIENS</theme_titre>
+    <evenement>L'otage Gilad Shalit est libéré en échange de 1047 prisonniers palestiniens</evenement>
+    <img src="/10-octobre/_01.jpg"/>
+    <date_jour>18/10/2011</date_jour>
+    <texte>Après cinq ans de captivité, le soldat franco-israélien Gilad Shalit a été libéré en échange d'un premier contingent de 477 prisonniers palestiniens. Quelque 550 autres ont été libérés dans les jours suivants. Le sous-officier de 24 ans était détenu par le Hamas dans la bande de Gaza. </texte>
+    <liens></liens>
+    <desc_media>Reportage à Gaza, à l'arrivée des prisonniers palestiniens échangés contre Gilad Shalit.</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201110/REP_INT_Liberation_Palestiniens.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Gilad Shalit : le récit d'une libération </desc_contenu_f24>
+    <video>http://medias.france24.com/2011/10/21/MG039090-A-01-20111020.flv</video>
+  </theme>
+
+
+
+
+  <theme>
+    <id>69</id>
+    <mois>Octobre 2011</mois>
+    <theme_titre>GRÈCE</theme_titre>
+    <evenement>Grève de 48 heures et manifestations contre l'austérité </evenement>
+    <img src="/10-octobre/_01.jpg"/>
+    <date_jour>19 - 20/10/2011</date_jour>
+    <texte>Manifestation record à Athènes avec plus de 125 000 personnes descendus dans les rues. Les deux principaux syndicats grecs, GSEE et Adedy, ont appelé à une grève générale de 48 heures dans un pays peu à peu paralysé par une série de grèves sectorielles contre les mesures d'austérité demandées par les créanciers du pays. Des violences ont éclaté en marge du cortège à Athènes.</texte>
+    <liens></liens>
+    <desc_media>Reportage à Athènes, manifestation contre les mesures d'austérité</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201109/Bonjour_Europe_23-09_POINSSOT_Amelie.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Reportage sur une nouvelle génération de sans-abri victime de la crise</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/10/WB_FR_NW_PKG_GRECE_CRISE_FR24_V4_NW500137-A-01-20111007.flv</video>
+  </theme>
+
+
+
+
+  <theme>
+    <id>70</id>
+    <mois>Octobre 2011</mois>
+    <theme_titre>LIBYE</theme_titre>
+    <evenement>Mouammar Kadhafi est tué à Syrte</evenement>
+    <img src="/10-octobre/_01.jpg"/>
+    <date_jour>20/10/2011</date_jour>
+    <texte>Les forces aériennes de l'Otan ont attaqué un convoi transportant Mouammar Kadhafi, à la sortie de Syrte, sa ville natale. Des insurgés, qui ont intercepté les véhicules, avant d'annoncer la mort de l'ancien dirigeant lybien. La nouvelle a été accueillie avec enthousiasme par les dirigeants occidentaux.</texte>
+    <liens></liens>
+    <desc_media>Edition spéciale : Mouammar Kadhafi est mort</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201110/Edition_Speciale_Libye.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Portrait de Mouammar Kadhafi</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/10/WB_FR_NW_PKG_KADHAFI_HISTOIRE_CONFLIT_UPDATE_V2_15H_NW515501-A-01-20111020.flv</video>
+  </theme>
+
+
+
+
+  <theme>
+    <id>71</id>
+    <mois>Octobre 2011</mois>
+    <theme_titre>TUNISIE</theme_titre>
+    <evenement>Le parti islamiste Ennadha remporte la première élection libre du pays</evenement>
+    <img src="/10-octobre/_01.jpg"/>
+    <date_jour>23/10/2011</date_jour>
+    <texte>Neuf mois après la chute de Ben Ali, le parti islamiste Ennahda de Rached Ghannouchi remporte les élections constituantes du 23 octobre. Crédité de 41,47% des suffrages, il obtient 90 des 217 sièges de l'Assemblée arrivant ainsi devant le Congrès pour la République (CPR, gauche nationaliste) avec 30 sièges (13,82%) et Ettakatol (gauche) avec 21 sièges (9,68%). </texte>
+    <liens></liens>
+    <desc_media>Reportage au siège du parti Ennahda où les militants et responsables cherchent à rassurer sur leurs intentions </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201110/51_-_TUNISIE_Enrobe_Siege_ENNAHDA.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://medias.france24.com/2011/10/WB_FR_NW_PKG_TUNISIE_ELECTION_SANS_BOUZID_NW525580-A-01-20111028.flv</video>
+  </theme>
+
+
+
+
+  <theme>
+    <id>72</id>
+    <mois>Octobre 2011</mois>
+    <theme_titre>TERRITOIRES PALESTINIENS</theme_titre>
+    <evenement>L'Unesco vote l'adhésion de la Palestine</evenement>
+    <img src="/10-octobre/_01.jpg"/>
+    <date_jour>31/10/2011</date_jour>
+    <texte>Les Palestiniens ont engrangé une première victoire diplomatique dans leur quête d'une reconnaissance internationale d'un Etat, avec l'approbation d'une recommandation à l'Unesco pour faire de la Palestine un membre à part entière de l'organisation. Washington suspend sa contribution au financement de l'organisation onusienne, soit 80 millions de dollars par an (22% du budget de l'Unesco).</texte>
+    <liens></liens>
+    <desc_media>Réaction d'Elias Sanbar, ambassadeur palestinien auprès de l'Unesco</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201111/14-_UNESCO_Son_Elias_Sembar_sur_vote_europeen.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Elias Sanbar, Ambassadeur palestinien auprès de l'UNESCO</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/06/TK017437-A-01-20111103.flv</video>
+  </theme>
+
+
+    
+  
+  
+  
+    <!---------------------------------------------------------NOVEMBRE------------------------------------------------------------------------------------>
+
+   <theme>
+    <id>73</id>
+    <mois>Novembre 2011</mois>
+    <theme_titre>ROYAUME-UNI</theme_titre>
+    <evenement>L'extradition du fondateur de WikiLeaks est confirmée en appel</evenement>
+    <img src="/10-novembre/_01.jpg"/>
+    <date_jour>02/11/2011</date_jour>
+    <texte>La Haute cour de Londres a confirmé l'extradition vers la Suède du fondateur de WikiLeaks Julian Assange, accusé par deux Suédoises d'avoir eu des relations contraintes et non protégées en août 2010. </texte>
+    <liens></liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/WB_FR_NW_PKG_ASSANGE_EXTRADITION_17H_NW531255-A-01-20111102.flv</video>
+  </theme>
+  
+
+   <theme>
+    <id>74</id>
+    <mois>Novembre 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Ouverture du procès de Carlos</evenement>
+    <img src="/10-novembre/_01.jpg"/>
+    <date_jour>05/11/2011</date_jour>
+    <texte>"Révolutionnaire de profession" comme il se définit lui-même, Carlos doit répondre de quatre attentats commis en France entre 1982 et 1983, devant la cour d'assises de Paris. </texte>
+    <liens></liens>
+    <desc_media>Première journée d'audience : les réactions des victimes des attentats.</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201111/07_FRA_Carlos_Enro_debut_proces_v_Carlos_23h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Portrait</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/WB_FR_NW_GRAB_HAKIKI_CARLOS_PROCES_14H_NW538288-A-01-20111107.flv</video>
+  </theme>
+  
+
+   <theme>
+    <id>75</id>
+    <mois>Novembre 2011</mois>
+    <theme_titre>GRÈCE</theme_titre>
+    <evenement>Papandréou démissionne, Lucas Papadémos désigné nouveau Premier ministre</evenement>
+    <img src="/10-novembre/03_01.jpg"/>
+    <date_jour>11/11/2011</date_jour>
+    <texte>Lucas Papadémos, l'ancien vice-président de la Banque centrale européenne (BCE), est officiellement nommé Premier ministre pour remplacer Georges Papandréou à la tête du gouvernement. Le nouveau cabinet est chargé de mettre en oeuvre le plan de sauvetage de 130 milliards d'euros élaboré par l'Union européenne et de préparer des élections législatives anticipées pour février 2012.</texte>
+    <liens></liens>
+    <desc_media>Analyse d'Hélène Crezolé, éditorialiste du quotidien grec Alèthéia</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201111/13_GRECE_SON_Helene_Cerezole_Accord.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20111111-grece-politique-lucas-papademos-premier-ministre-gouvernement-coalition-economie-crise-dette-finance-banque</contenu_f24>
+    <desc_contenu_f24>Portrait</desc_contenu_f24>
+    <video></video>
+  </theme>
+  
+
+   <theme>
+    <id>76</id>
+    <mois>Novembre 2011</mois>
+    <theme_titre>ITALIE</theme_titre>
+    <evenement>Silvio Berluconi démissionne</evenement>
+    <img src="/10-novembre/_01.jpg"/>
+    <date_jour>12/11/2011</date_jour>
+    <texte>C'est sous une pluie d'insultes que Silvio Berlusconi a démissionné de son poste de président du Conseil. Comble de l'humiliation pour ce trublion de la politique, il a dû quitter le Palais présidentiel par une porte dérobée... Le lendemain, Mario Monti, 68 ans, économiste rigoureux et ancien commissaire européen, est désigné pour former le prochain gouvernement. </texte>
+    <liens></liens>
+    <desc_media>Reportage : à Rome, le rideau tombe, le Cavaliere est humilié </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201111/13_ITALIE_Pp_fin_du_cavaliere.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Le règne de Silvio Berlusconi s'achève sous une pluie d'insultes</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/WB_FR_NW_PKG_ITALIE_REAX_DEMISSION_BERLUSCONI_14H_NW545052-A-01-20111112.flv</video>
+  </theme>
+  
+
+   <theme>
+    <id>77</id>
+    <mois>Novembre 2011</mois>
+    <theme_titre>SYRIE</theme_titre>
+    <evenement>La Ligue arabe suspend la Syrie de ses instances</evenement>
+    <img src="/10-novembre/_01.jpg"/>
+    <date_jour>12/11/2011</date_jour>
+    <texte>La Ligue arabe a suspendu la Syrie de ses activités et réclame des sanctions à l'encontre de Damas, en raison de la répression qui a fait, selon l'ONU, plus de 3 500 morts depuis la mi-mars. </texte>
+    <liens></liens>
+    <desc_media>Reportage : Manifestation de joie devant l'ambassade de Syrie à Amman </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201111/10_SYRIE_JORDANIE_manif_joie_enro_FERAT_FV_1_17.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/WB_FR_NW_PKG_LIGUE_ARABE_SYRIE_17H_NW545008-A-01-20111112.flv</video>
+  </theme>
+  
+
+   <theme>
+    <id>78</id>
+    <mois>Novembre 2011</mois>
+    <theme_titre>FRANCE</theme_titre>
+    <evenement>Mort de l'ex-première dame Danielle Mitterrand</evenement>
+    <img src="/10-novembre/_01.jpg"/>
+    <date_jour>22/11/2011</date_jour>
+    <texte>La veuve de l'ex-président socialiste François Mitterrand est décédée à l'âge de 87 ans. Militante dans l'âme, l'ex-première dame de France, qui s'est toujours sentie à l'étroit dans cette fonction, s'est illustrée par ses engagements politiques et humanitaires, en créant notamment la Fondation France-Libertés.</texte>
+    <liens></liens>
+    <desc_media>Archives : sur RFI, Danielle Mitterrand parle de son engagement </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201111/1992_ZAS_1018_-_Extrait_-_D_Mitterand.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Nécro</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/WB_FR_NW_PKG_PORTRAIT_DANIELLE_MITTERAND_09H30_NW558021-A-01-20111122.flv</video>
+  </theme>
+  
+
+   <theme>
+    <id>79</id>
+    <mois>Novembre 2011</mois>
+    <theme_titre>YÉMEN</theme_titre>
+    <evenement>Le président Saleh signe l'accord de transfert du pouvoir à Riyad </evenement>
+    <img src="/10-novembre/_01.jpg"/>
+    <date_jour>24/11/2011</date_jour>
+    <texte>Après trois refus, Ali Abdallah Saleh a finalement signé à Riyad un accord prévoyant son départ du pouvoir. Accord néanmoins rejeté par les manifestants à Sanaa qui réclament la traduction en justice du président yéménite. </texte>
+    <liens></liens>
+    <desc_media>Réaction pessimiste d'un habitant de Sanaa.</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201111/12_YEMEN_changement_pacifique_son_Nabil_Katem_3h.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>Entretien exclusif</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/15/TK017543-A-01-20111114.flv</video>
+  </theme>
+  
+
+  
+    <!---------------------------------------------------------DECEMBRE------------------------------------------------------------------------------------>
+  
+  <theme>
+    <id>80</id>
+    <mois>Décembre 2011</mois>
+    <theme_titre>Russie</theme_titre>
+    <evenement>Elections législatives, la victoire de Russie Unie est contestée</evenement>
+    <img src="/03-MARS/_01.jpg"/>
+    <date_jour>04/12/2011</date_jour>
+    <texte>Le parti Russie Unie de Vladimir Poutine conserve sa majorité absolue à la Douma avec 234 sièges sur 450. Des organisations non gouvernementales et des observateurs font état de nombreuses fraudes électorales. Des manifestation massives dans les rues de Moscou et sur internet dénoncent les fraudes. 300 personnes sont interpellées.</texte>
+    <liens></liens>
+    <desc_media>Manifestation à Moscou pour dénoncer les fraudes </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201112/15_RUSSIE_ENRO_manifestants_4h.mp3</liens_media>
+    <contenu_f24>http://www.france24.com/fr/20111209-desamour-poutine-elections-legislatives-russie-fraudes-baisse-popularite</contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  
+  
+  <theme>
+    <id>81</id>
+    <mois>Décembre 2011</mois>
+    <theme_titre>Côte d'Ivoire</theme_titre>
+    <evenement>Comparution de Laurent Gbagbo devant la Cour Pénale Internationale</evenement>
+    <img src="/03-MARS/_01.jpg"/>
+    <date_jour>06/12/2011</date_jour>
+    <texte>L'ancien président ivoirien est accusé de crimes contre l'humanité perpétrés durant les violences post-électorales ivoiriennes entre décembre 2010 et avril 2011. Il est visé par 4 chefs d'accusation, à savoir meurtres, viols, actes inhumains et persécution. </texte>
+    <liens></liens>
+    <desc_media>Laurent Gbagbo conteste les conditions de son arrestation et de son transfert à la Haye</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201112/CIV_CPI_SON_gbagbo_1_mon_arrestation.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>La Côte d'Ivoire, un an après l'élection d'Alassane Ouattara </desc_contenu_f24>
+    <video>http://medias.france24.com/2011/11/11/MG039428-A-01-20111109.flv</video>
+  </theme>
+
+
+  <theme>
+    <id>82</id>
+    <mois>Décembre 2011</mois>
+    <theme_titre>Syrie</theme_titre>
+    <evenement>Bachar el-Assad affirme «ne pas être responsable» de la répression syrienne</evenement>
+    <img src="/03-MARS/_01.jpg"/>
+    <date_jour>07/12/2011</date_jour>
+    <texte>Dans une interview à ABCNews, Bachar el-Assad réfute avoir donné l'ordre de tuer les opposants et conteste les chiffres qui annoncent 4 000 morts depuis le début de la répression.</texte>
+    <liens></liens>
+    <desc_media>Extrait de l'interview de Bachar el-Assad sur la chaîne ABC</desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201112/SYRIE_enro_Bachar_sur_ABC.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24>FOCUS : Assad nie avoir ordonné de tuer des manifestants</desc_contenu_f24>
+    <video>http://medias.france24.com/2011/12/07/FRAN111207-2117-Live.flv</video>
+  </theme>
+
+
+  <theme>
+    <id>83</id>
+    <mois>Décembre 2011</mois>
+    <theme_titre>Europe</theme_titre>
+    <evenement>Sommet des dirigeants européens</evenement>
+    <img src="/03-MARS/_01.jpg"/>
+    <date_jour>08 - 09/12/2011</date_jour>
+    <texte>Tous les pays de l'UE, sauf le Royaume-Uni, pourraient accepter l'accord sur le renforcement de la discipline budgétaire conclu par les pays de la zone euro à Bruxelles. Les dirigeants européens ont renoncé à une réforme des traités à 27 à cause des conditions exigées par Londres qui demandait ni plus ni moins que d'être exonéré d'un certain nombre de règlementations sur les services financiers.
+</texte>
+    <liens></liens>
+    <desc_media>Déclaration de Nicolas Sarkozy </desc_media>
+    <liens_media>http://telechargement.rfi.fr.edgesuite.net/rfi/francais/audio/modules/actu/201112/ECO_son_Sarko_Europe_a_deux_vitesses.mp3</liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+
+
+
+
+  <theme>
+    <id>84</id>
+    <mois>Décembre 2011</mois>
+    <theme_titre>RDC</theme_titre>
+    <evenement>La Ceni déclare Joseph Kabila vainqueur de l'élection présidentielle</evenement>
+    <img src="/03-MARS/_01.jpg"/>
+    <date_jour>09/12/2011</date_jour>
+    <texte>Selon les résultats provisoires communiqués par le président de la Céni, le pasteur Daniel Ngoy Mulunda, Joseph Kabila, 40 ans, élu une première fois en 2006, l'a emporté avec 48,95 % des voix, devant l'opposant de 78 ans Etienne Tshisekedi qui a totalisé 32,33 % des suffrages.</texte>
+    <liens></liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24></contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video>http://medias.france24.com/2011/12/WB_FR_NW_GRAB_NICOLAS_RDC_21H30_NW579346-A-01-20111209.flv</video>
+  </theme>
+
+
+
+
+
+  
+  <theme>
+    <id>85</id>
+    <mois>Côte d'Ivoire</mois>
+    <theme_titre>Côte d'Ivoire</theme_titre>
+    <evenement> Elections législatives </evenement>
+    <img src="/03-MARS/_01.jpg"/>
+    <date_jour>11/12/2011</date_jour>
+    <texte>Les élections législatives du 11 décembre en Côte d'Ivoire étaient une étape essentielle pour sortir définitivement le pays d'une grave crise post-électorale qui a duré de novembre 2010 à avril 2011. Elles se sont bien déroulées mais ont été marquées par une faible participation et l'absence des pro-Gbagbo, dont le parti et ses alliés boycottent le scrutin.</texte>
+    <liens>http://www.rfi.fr/afrique/20111205-cote-ivoire-Gbagbo-legislatives-yopougon</liens>
+    <desc_media></desc_media>
+    <liens_media></liens_media>
+    <contenu_f24>http://www.france24.com/fr/20111208-legislatives-indifference--reconciliation-cote-divoire-ouattara-gbagbo-campagne-electorale</contenu_f24>
+    <desc_contenu_f24></desc_contenu_f24>
+    <video></video>
+  </theme>
+  
+  
+</retro_monde_fr>
